@@ -26,22 +26,12 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# ── Serve React frontend ───────────────────────────────────
-frontend_dist = os.path.join(BASE, "frontend_dist")
-if os.path.isdir(frontend_dist):
-    app.mount("/static", StaticFiles(directory=os.path.join(frontend_dist, "assets")), name="static")
-
-    @app.get("/app", include_in_schema=False)
-    def serve_frontend():
-        return FileResponse(os.path.join(frontend_dist, "index.html"))
-
-# ── Schemas ────────────────────────────────────────────────
 class PredictRequest(BaseModel):
-    age: int                  = Field(..., ge=18, le=70,  example=32)
-    gender: str               = Field(...,                example="Male")
-    education_level: str      = Field(...,                example="Bachelor's")
-    job_title: str            = Field(...,                example="Software Engineer")
-    years_of_experience: float= Field(..., ge=0,  le=45, example=5)
+    age: int                   = Field(..., ge=18, le=70,  example=32)
+    gender: str                = Field(...,                example="Male")
+    education_level: str       = Field(...,                example="Bachelor's")
+    job_title: str             = Field(...,                example="Software Engineer")
+    years_of_experience: float = Field(..., ge=0,  le=45,  example=5)
 
 class PredictResponse(BaseModel):
     predicted_salary: float
@@ -49,11 +39,6 @@ class PredictResponse(BaseModel):
     salary_range_high: float
     currency: str
     message: str
-
-# ── Endpoints ──────────────────────────────────────────────
-@app.get("/")
-def root():
-    return {"message": "Salary Prediction API v2.0 🎯", "docs": "/docs"}
 
 @app.get("/health")
 def health():
@@ -75,7 +60,7 @@ def predict(data: PredictRequest):
         if key not in encoders[col].classes_:
             raise HTTPException(
                 status_code=422,
-                detail=f"Invalid {col}: '{key}'. Valid options: {sorted(encoders[col].classes_.tolist())}"
+                detail=f"Invalid {col}: '{key}'. Valid: {sorted(encoders[col].classes_.tolist())}"
             )
 
     g   = encoders["Gender"].transform([data.gender])[0]
@@ -92,10 +77,8 @@ def predict(data: PredictRequest):
 
     salary = float(model.predict(feat_vec)[0])
     salary = max(30000, round(salary / 500) * 500)
-
-    # ±10 % confidence range
-    low  = round(salary * 0.90 / 500) * 500
-    high = round(salary * 1.10 / 500) * 500
+    low    = round(salary * 0.90 / 500) * 500
+    high   = round(salary * 1.10 / 500) * 500
 
     return PredictResponse(
         predicted_salary  = salary,
@@ -108,3 +91,13 @@ def predict(data: PredictRequest):
             f"and a {data.education_level} degree."
         ),
     )
+
+# ── Serve React frontend — MUST be last ───────────────────
+frontend_dist = os.path.join(BASE, "frontend_dist")
+
+if os.path.isdir(frontend_dist):
+    app.mount("/assets", StaticFiles(directory=os.path.join(frontend_dist, "assets")), name="assets")
+
+    @app.get("/{full_path:path}", include_in_schema=False)
+    def serve_react(full_path: str):
+        return FileResponse(os.path.join(frontend_dist, "index.html"))
