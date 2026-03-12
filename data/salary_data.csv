@@ -1,0 +1,2001 @@
+Age,Gender,Education Level,Job Title,Years of Experience,Salary
+30,Female,PhD,Logistics Coordinator,9,94500
+41,Male,High School,Scrum Master,14,113000
+34,Male,PhD,Senior Financial Analyst,12,175500
+25,Male,Bachelor's,Financial Analyst,5,81500
+24,Male,Bachelor's,Junior Developer,2,47500
+27,Female,Bachelor's,Civil Engineer,5,92500
+22,Male,Bachelor's,CTO,0,256000
+27,Female,Master's,CFO,4,286500
+23,Male,PhD,Civil Engineer,2,121500
+26,Female,Bachelor's,Data Analyst,1,68000
+22,Female,Bachelor's,Data Engineer,0,93500
+27,Male,Master's,Project Manager,3,97000
+25,Male,Master's,UI Designer,0,98000
+22,Male,Master's,HR Specialist,0,63500
+25,Male,Master's,Senior Data Analyst,2,110500
+30,Male,Master's,Accountant,7,94500
+36,Male,Master's,Operations Manager,10,147000
+27,Male,Bachelor's,Logistics Coordinator,3,56500
+38,Male,Bachelor's,CEO,16,391000
+22,Male,Bachelor's,Research Scientist,0,101500
+31,Female,Master's,Senior Software Engineer,7,180000
+27,Female,PhD,Biomedical Engineer,5,136500
+29,Male,Bachelor's,Manager,11,113500
+25,Male,Bachelor's,Operations Manager,2,99000
+26,Female,Master's,Account Executive,3,80500
+24,Male,Bachelor's,Director of Engineering,0,187500
+38,Male,Bachelor's,COO,16,333000
+27,Female,PhD,Biomedical Engineer,1,129500
+29,Male,Master's,Junior Developer,3,74500
+34,Male,High School,Frontend Developer,12,87500
+31,Male,Bachelor's,Brand Manager,7,103000
+23,Female,Master's,Scrum Master,1,122000
+25,Female,Bachelor's,Project Manager,2,94500
+25,Female,Master's,Intern,5,53500
+37,Female,PhD,Chemical Engineer,16,194000
+39,Male,Master's,HR Specialist,15,101500
+25,Female,High School,Accountant,1,52500
+34,Female,Bachelor's,HR Specialist,7,70500
+30,Male,Bachelor's,Product Manager,8,129500
+38,Female,Master's,Business Analyst,13,136000
+27,Male,Bachelor's,Backend Developer,2,89500
+27,Male,Master's,Digital Marketing Specialist,4,93000
+26,Female,Master's,Machine Learning Engineer,2,144000
+44,Female,PhD,Senior Product Manager,21,356500
+26,Male,PhD,UI Designer,3,122500
+26,Female,Master's,Financial Analyst,2,83000
+29,Female,Master's,Sales Representative,5,65500
+29,Male,Bachelor's,Senior Financial Analyst,5,116000
+28,Male,Master's,Business Development Manager,3,118500
+42,Female,Master's,HR Specialist,17,131500
+32,Female,Master's,Mechanical Engineer,8,125500
+23,Male,Bachelor's,Investment Banker,0,130500
+25,Female,Bachelor's,Senior Accountant,2,86000
+27,Female,Master's,CEO,3,337500
+34,Female,Bachelor's,CFO,6,314000
+45,Female,Master's,Director,26,342500
+26,Female,Bachelor's,Senior Product Manager,4,184500
+29,Female,Bachelor's,Senior Manager,2,121000
+45,Male,Bachelor's,UX Designer,21,158500
+27,Male,Bachelor's,Senior Financial Analyst,1,93500
+23,Male,Bachelor's,Manager,0,90500
+27,Female,Bachelor's,Marketing Manager,4,83000
+30,Female,Master's,Investment Banker,7,185000
+35,Male,Bachelor's,Senior Manager,13,165000
+25,Female,Master's,Accountant,0,71500
+35,Female,Bachelor's,Accountant,7,64500
+45,Female,Bachelor's,Operations Manager,22,161500
+22,Male,Master's,Data Engineer,0,131500
+30,Female,Master's,Senior Data Scientist,6,200500
+26,Male,Bachelor's,Financial Analyst,1,77500
+25,Male,Bachelor's,Director of Engineering,3,191000
+29,Male,Bachelor's,Account Executive,7,92000
+24,Male,Bachelor's,Sales Manager,4,96500
+45,Male,High School,Scrum Master,22,136000
+26,Female,Master's,Content Strategist,4,83500
+28,Male,Master's,Machine Learning Engineer,5,162000
+65,Female,PhD,CFO,38,744000
+36,Female,Master's,Civil Engineer,12,131000
+23,Male,Bachelor's,Electrical Engineer,3,98000
+38,Female,Master's,Data Engineer,14,182000
+27,Female,Bachelor's,Mechanical Engineer,8,102500
+22,Male,Bachelor's,Logistics Coordinator,2,54000
+34,Female,Bachelor's,VP of Engineering,9,273000
+23,Male,Master's,Logistics Coordinator,1,52500
+24,Female,Bachelor's,Senior Accountant,4,95000
+42,Female,PhD,Product Manager,17,219000
+23,Female,Bachelor's,Manager,1,91500
+45,Male,PhD,Investment Banker,22,297500
+22,Female,Bachelor's,Accountant,1,69000
+26,Female,Bachelor's,Intern,3,37000
+33,Male,Bachelor's,Senior Product Manager,11,207500
+45,Male,Master's,Electrical Engineer,20,195000
+40,Female,PhD,Senior Software Engineer,14,233500
+30,Male,Bachelor's,Account Executive,6,84000
+24,Male,Master's,Digital Marketing Specialist,4,74500
+38,Male,Master's,Chemical Engineer,11,142000
+22,Female,Master's,Operations Manager,1,109000
+27,Male,Master's,CTO,1,324500
+34,Male,Bachelor's,Content Strategist,7,78000
+31,Female,Master's,Junior Developer,5,73000
+25,Male,Bachelor's,Manager,0,87500
+22,Male,Bachelor's,Senior Software Engineer,1,137000
+29,Male,PhD,Digital Marketing Specialist,2,84000
+36,Female,Master's,Intern,13,69000
+46,Female,Bachelor's,Intern,27,73500
+22,Male,Bachelor's,Research Scientist,0,108500
+26,Male,PhD,VP,4,287000
+23,Male,High School,Senior Manager,1,87500
+26,Female,Bachelor's,Financial Analyst,4,75000
+25,Female,Master's,Mobile Developer,0,109000
+40,Female,Master's,Civil Engineer,17,144500
+23,Female,Master's,Software Engineer,1,95000
+30,Female,Master's,Senior Financial Analyst,3,121500
+32,Male,Bachelor's,Mobile Developer,8,116000
+24,Female,Bachelor's,Civil Engineer,4,90000
+22,Male,Bachelor's,Senior Accountant,0,76500
+42,Female,Bachelor's,Marketing Manager,15,129500
+28,Male,Bachelor's,Data Scientist,0,107000
+22,Female,Bachelor's,Data Engineer,0,95000
+27,Female,Bachelor's,Marketing Manager,3,89000
+23,Male,Bachelor's,Business Development Manager,1,95000
+22,Female,Bachelor's,Frontend Developer,1,87000
+25,Female,Bachelor's,Recruiter,3,67500
+46,Female,Master's,VP,18,385500
+23,Male,Master's,CTO,1,256000
+22,Female,Bachelor's,Business Development Manager,0,100500
+26,Female,Bachelor's,Operations Manager,4,103000
+22,Female,Bachelor's,VP of Engineering,0,210500
+25,Male,Master's,Operations Manager,6,121500
+36,Male,PhD,Sales Manager,12,173500
+35,Male,High School,Backend Developer,9,91000
+24,Male,Master's,Data Engineer,1,125500
+30,Male,Master's,Machine Learning Engineer,5,156000
+26,Female,Master's,Senior Accountant,4,91000
+28,Male,Master's,Supply Chain Manager,4,116500
+38,Female,Bachelor's,Director,16,238500
+26,Male,Master's,Data Analyst,2,79500
+38,Male,Bachelor's,Brand Manager,15,133500
+33,Male,Bachelor's,Business Development Manager,9,120500
+28,Male,Master's,Cloud Architect,2,165000
+33,Male,Bachelor's,Machine Learning Engineer,8,161000
+23,Female,Bachelor's,CTO,2,247500
+28,Female,Bachelor's,Cloud Architect,3,148500
+27,Female,Bachelor's,Backend Developer,4,97000
+29,Male,PhD,Intern,5,61000
+27,Male,Bachelor's,Data Engineer,6,144000
+40,Female,PhD,Brand Manager,18,185500
+29,Female,Master's,Financial Analyst,0,88000
+23,Male,High School,Financial Analyst,2,54500
+28,Female,PhD,Senior Accountant,2,109000
+27,Female,Bachelor's,Senior Product Manager,4,162000
+43,Female,Bachelor's,Senior Data Analyst,17,125000
+30,Female,High School,Senior Financial Analyst,7,87500
+26,Male,PhD,Content Strategist,4,96500
+37,Male,Bachelor's,Investment Banker,15,190500
+31,Male,Bachelor's,Mechanical Engineer,5,78500
+28,Male,Bachelor's,Content Strategist,5,71000
+28,Male,PhD,Brand Manager,3,115000
+26,Male,High School,Intern,1,34500
+25,Male,Bachelor's,Software Engineer,1,87000
+24,Male,Master's,Data Scientist,1,119000
+39,Female,Master's,Mobile Developer,12,132500
+39,Female,Bachelor's,Financial Analyst,15,100000
+32,Female,PhD,Intern,11,67000
+23,Male,Bachelor's,Senior Software Engineer,2,144000
+27,Male,Bachelor's,Sales Manager,2,96000
+30,Male,Bachelor's,Account Executive,5,88500
+28,Male,Bachelor's,Senior Accountant,7,98000
+32,Male,Master's,Brand Manager,8,140000
+23,Female,Bachelor's,Graphic Designer,0,45000
+23,Male,Bachelor's,Backend Developer,1,82500
+36,Female,Bachelor's,Digital Marketing Specialist,7,71000
+30,Female,Bachelor's,Senior Product Manager,10,182000
+23,Male,Bachelor's,COO,0,238500
+29,Male,Master's,Recruiter,6,86000
+28,Female,Bachelor's,Accountant,4,60000
+36,Male,Master's,Scrum Master,13,179500
+28,Male,Bachelor's,DevOps Engineer,3,123000
+25,Male,High School,Senior Accountant,0,61500
+30,Male,Master's,Director of Engineering,8,242500
+32,Female,Master's,Product Manager,7,172000
+42,Female,PhD,Product Manager,16,248500
+22,Male,Master's,UI Designer,0,109000
+32,Female,Bachelor's,Senior Data Analyst,9,117000
+32,Male,Master's,Junior Developer,9,77000
+32,Female,Master's,Junior Developer,7,65500
+24,Female,PhD,Mechanical Engineer,5,118500
+31,Male,Master's,Logistics Coordinator,5,76500
+35,Female,Bachelor's,Business Development Manager,14,118000
+26,Female,High School,HR Manager,1,64000
+29,Male,High School,Junior Developer,0,39500
+24,Male,Bachelor's,Biomedical Engineer,0,75000
+29,Female,High School,Software Engineer,4,75000
+25,Female,Bachelor's,Project Manager,2,85500
+36,Female,PhD,Senior Data Scientist,11,225500
+29,Female,PhD,Logistics Coordinator,6,85500
+24,Female,Master's,Data Engineer,1,123500
+37,Male,PhD,UI Designer,12,162000
+26,Male,Bachelor's,Investment Banker,6,159500
+62,Female,Bachelor's,HR Specialist,39,138500
+22,Female,Master's,Full Stack Developer,0,99500
+25,Female,Bachelor's,Junior Developer,0,51500
+26,Male,Bachelor's,Frontend Developer,2,82000
+39,Female,Bachelor's,Operations Manager,15,147000
+33,Female,Bachelor's,CTO,7,301500
+36,Female,Bachelor's,Business Development Manager,14,137000
+23,Male,Bachelor's,Chemical Engineer,1,91500
+26,Male,PhD,Machine Learning Engineer,4,185000
+27,Male,High School,Logistics Coordinator,5,52000
+24,Female,High School,Senior Software Engineer,2,104000
+34,Female,High School,HR Manager,11,82500
+33,Female,Bachelor's,Senior Data Analyst,12,124000
+25,Male,Master's,Operations Manager,1,105500
+28,Female,Bachelor's,Senior Product Manager,0,137500
+23,Male,Bachelor's,CEO,0,302000
+23,Male,Bachelor's,Account Executive,0,64000
+39,Male,Bachelor's,Senior Data Scientist,13,198000
+33,Female,Master's,Frontend Developer,10,124500
+24,Male,PhD,Data Scientist,0,137500
+29,Male,PhD,Operations Manager,9,153500
+33,Female,Master's,Senior Manager,9,167000
+25,Female,Bachelor's,Accountant,4,69000
+28,Male,High School,Senior Accountant,1,54500
+25,Male,Master's,Senior Data Analyst,2,103000
+30,Female,Bachelor's,Sales Manager,6,97000
+32,Male,Bachelor's,Chemical Engineer,7,93000
+28,Male,PhD,Data Engineer,1,143000
+34,Female,PhD,Project Manager,8,154500
+31,Female,PhD,Intern,9,69500
+22,Male,Bachelor's,Backend Developer,0,84500
+43,Female,Master's,Business Development Manager,19,176500
+33,Male,High School,UI Designer,12,81500
+32,Male,Bachelor's,Supply Chain Manager,8,113500
+43,Male,High School,Data Scientist,19,127000
+30,Female,Master's,VP of Engineering,8,325000
+41,Male,High School,Junior Developer,15,64500
+28,Male,Master's,Marketing Manager,5,112500
+24,Female,Bachelor's,COO,1,234500
+26,Female,Bachelor's,Director,1,167500
+32,Female,Bachelor's,CTO,8,310000
+26,Male,Master's,Cloud Architect,0,158000
+24,Female,Master's,Sales Representative,3,58500
+34,Female,High School,Business Analyst,14,95000
+37,Female,Bachelor's,CFO,14,364000
+42,Male,Bachelor's,Graphic Designer,17,80000
+24,Male,Master's,UX Designer,0,98500
+48,Female,Bachelor's,Investment Banker,24,234500
+39,Male,Bachelor's,Mechanical Engineer,14,98000
+25,Female,Bachelor's,Senior Accountant,1,82500
+25,Male,Master's,Senior Software Engineer,2,155000
+22,Male,Bachelor's,Mechanical Engineer,1,86500
+29,Male,Bachelor's,Sales Manager,2,102000
+31,Female,Bachelor's,COO,6,226000
+28,Male,Master's,Director of Engineering,4,231500
+53,Male,High School,Junior Developer,30,82500
+25,Male,Master's,Marketing Manager,1,91500
+24,Female,Bachelor's,Backend Developer,4,100500
+27,Female,Bachelor's,Research Scientist,5,127500
+26,Male,Master's,Financial Analyst,1,80500
+25,Female,Bachelor's,Director,0,144500
+25,Female,Master's,Civil Engineer,0,93000
+28,Male,Master's,Mobile Developer,6,117500
+27,Male,PhD,Data Analyst,3,100000
+34,Male,Master's,Full Stack Developer,14,148000
+33,Male,Master's,Supply Chain Manager,10,153500
+26,Male,Bachelor's,Frontend Developer,5,83000
+26,Male,Bachelor's,Financial Analyst,4,74500
+32,Female,High School,Biomedical Engineer,6,94500
+32,Male,Bachelor's,Electrical Engineer,13,148500
+29,Male,Bachelor's,CFO,3,221500
+35,Female,Master's,Biomedical Engineer,10,148500
+24,Male,High School,Junior Developer,1,44000
+41,Male,High School,Frontend Developer,19,104500
+31,Female,Bachelor's,Senior Data Scientist,7,177000
+32,Female,High School,Data Engineer,8,107000
+24,Male,Bachelor's,Marketing Manager,0,82000
+33,Male,Bachelor's,Sales Representative,11,68500
+29,Male,Bachelor's,COO,5,299000
+30,Male,Master's,Content Strategist,7,84000
+27,Female,Master's,Graphic Designer,5,70500
+32,Male,Master's,Accountant,7,92500
+26,Male,Bachelor's,Cloud Architect,1,136000
+22,Male,Bachelor's,Business Development Manager,1,93000
+24,Female,Master's,Senior Data Analyst,2,115000
+28,Female,Bachelor's,Senior Accountant,6,109500
+58,Male,Master's,Logistics Coordinator,33,147500
+22,Male,High School,Logistics Coordinator,0,39500
+29,Male,High School,UI Designer,5,65500
+26,Female,Master's,Supply Chain Manager,5,111500
+34,Female,PhD,Data Analyst,7,112500
+27,Female,High School,Sales Manager,5,88500
+26,Female,High School,Product Manager,4,109000
+40,Female,Master's,Backend Developer,18,147500
+44,Female,PhD,UX Designer,18,182000
+22,Female,Master's,Financial Analyst,0,87000
+30,Female,Master's,Product Manager,8,150500
+27,Female,PhD,Financial Analyst,5,101500
+28,Female,Master's,Investment Banker,5,191000
+24,Female,Master's,Senior Financial Analyst,1,125500
+33,Female,Master's,Accountant,11,105000
+22,Male,Bachelor's,DevOps Engineer,1,113000
+35,Female,Master's,Business Analyst,12,124000
+22,Female,Master's,Electrical Engineer,1,108000
+24,Male,Bachelor's,Senior Accountant,0,83000
+22,Female,Bachelor's,Account Executive,2,76500
+28,Male,Master's,Intern,1,50500
+32,Male,High School,Scrum Master,10,97000
+30,Female,High School,Frontend Developer,8,80000
+24,Female,High School,Product Manager,4,106500
+24,Female,Bachelor's,CEO,3,304500
+37,Male,Bachelor's,Senior Data Analyst,12,134500
+27,Female,Bachelor's,Director,3,181500
+31,Female,Bachelor's,Investment Banker,6,152000
+23,Male,Bachelor's,Mechanical Engineer,0,79500
+26,Female,Master's,Director of Engineering,4,208500
+28,Female,Bachelor's,Senior Data Scientist,9,172000
+32,Male,Bachelor's,CEO,10,405500
+25,Female,Bachelor's,Software Engineer,2,97000
+41,Male,Master's,Frontend Developer,15,159500
+25,Male,Bachelor's,Intern,1,44000
+23,Female,High School,Operations Manager,0,73000
+43,Male,High School,Accountant,21,91000
+31,Female,Bachelor's,Electrical Engineer,10,123500
+29,Female,High School,Research Scientist,7,111000
+49,Male,High School,Supply Chain Manager,24,122500
+25,Male,Bachelor's,Senior Accountant,1,77500
+27,Male,Master's,Mobile Developer,5,125500
+31,Female,Master's,UX Designer,6,122000
+23,Female,Bachelor's,Intern,2,35000
+43,Female,Master's,Intern,20,74500
+32,Male,PhD,Account Executive,7,113000
+42,Male,Master's,Director,17,266000
+34,Female,Master's,Financial Analyst,9,121000
+52,Female,Bachelor's,Frontend Developer,29,160000
+27,Female,Master's,Cybersecurity Analyst,1,116000
+26,Female,Bachelor's,Full Stack Developer,6,109500
+40,Male,Master's,Scrum Master,14,165500
+25,Female,Bachelor's,Civil Engineer,0,73000
+25,Female,High School,Software Engineer,3,78000
+28,Male,Master's,Cloud Architect,6,178000
+22,Male,Bachelor's,Full Stack Developer,0,94000
+25,Male,Bachelor's,HR Manager,2,78500
+30,Male,PhD,VP,3,261000
+30,Female,Bachelor's,Accountant,3,63000
+25,Female,Master's,Financial Analyst,3,110500
+33,Male,High School,Mobile Developer,6,93000
+28,Female,Bachelor's,Accountant,6,74500
+53,Male,Master's,Accountant,28,135500
+22,Female,Bachelor's,Scrum Master,0,95000
+30,Male,Bachelor's,CEO,9,416000
+26,Female,Master's,Senior Data Scientist,0,156000
+29,Male,Bachelor's,Frontend Developer,6,89000
+22,Male,High School,VP of Engineering,0,168500
+42,Male,Bachelor's,Senior Product Manager,19,214500
+24,Male,Master's,CTO,1,321500
+23,Female,Bachelor's,Machine Learning Engineer,0,129500
+34,Female,Master's,Software Engineer,10,125000
+30,Male,Master's,Intern,7,55000
+38,Male,Bachelor's,Content Strategist,16,90500
+33,Male,Bachelor's,COO,10,281500
+40,Male,High School,VP,16,207000
+40,Male,Bachelor's,Business Development Manager,16,153500
+28,Male,High School,Senior Data Analyst,3,74500
+31,Male,Bachelor's,Senior Manager,7,124000
+28,Male,PhD,Scrum Master,6,144000
+26,Male,Bachelor's,VP of Engineering,2,231000
+36,Female,Bachelor's,Senior Product Manager,13,213000
+22,Male,Bachelor's,Senior Financial Analyst,0,75500
+36,Male,PhD,Financial Analyst,13,161500
+29,Male,Master's,Chemical Engineer,5,112000
+22,Male,Bachelor's,Intern,0,39500
+26,Male,Bachelor's,Senior Data Analyst,2,107500
+37,Female,Master's,VP,14,328000
+35,Female,PhD,UI Designer,10,141500
+26,Female,Bachelor's,Business Development Manager,0,98500
+47,Male,Master's,VP of Engineering,23,383000
+32,Female,Master's,Accountant,6,89000
+29,Male,PhD,Civil Engineer,5,116500
+36,Female,Bachelor's,Backend Developer,13,128000
+23,Female,Bachelor's,UX Designer,1,87500
+24,Female,Master's,Senior Data Scientist,0,162000
+24,Male,PhD,Electrical Engineer,3,135000
+25,Female,Bachelor's,Supply Chain Manager,1,89500
+39,Female,Master's,Business Development Manager,15,166500
+41,Male,Bachelor's,Content Strategist,17,96000
+28,Male,PhD,Manager,7,126500
+28,Male,Master's,Senior Financial Analyst,5,129000
+27,Female,Master's,Marketing Manager,3,107500
+31,Female,Master's,Project Manager,4,118500
+25,Male,Master's,Biomedical Engineer,2,106000
+26,Female,Master's,VP,1,214000
+22,Female,Bachelor's,Civil Engineer,0,86000
+25,Female,PhD,CEO,1,411500
+22,Male,High School,Data Analyst,1,48500
+26,Female,Bachelor's,Mobile Developer,0,83000
+27,Female,High School,Junior Developer,3,43500
+34,Male,Master's,Electrical Engineer,8,152000
+28,Male,Bachelor's,Intern,7,46500
+26,Male,High School,CFO,2,189000
+25,Male,Master's,CEO,0,310000
+37,Female,High School,UI Designer,14,98000
+32,Male,PhD,Senior Financial Analyst,6,156500
+26,Female,Bachelor's,Chemical Engineer,2,100000
+28,Male,Bachelor's,Financial Analyst,1,74000
+35,Male,High School,DevOps Engineer,14,118500
+24,Female,Bachelor's,Scrum Master,1,97500
+30,Male,Master's,Manager,7,113500
+25,Male,PhD,Backend Developer,2,107500
+27,Male,Bachelor's,UI Designer,3,83500
+25,Female,Bachelor's,Digital Marketing Specialist,4,54000
+32,Female,Bachelor's,HR Specialist,4,59500
+27,Male,High School,Supply Chain Manager,1,70000
+25,Female,Bachelor's,Director of Engineering,2,179000
+24,Male,Master's,Operations Manager,0,90000
+30,Male,Bachelor's,UI Designer,8,89500
+41,Male,Bachelor's,Biomedical Engineer,16,152000
+44,Male,Master's,Chemical Engineer,21,176000
+28,Male,High School,Mechanical Engineer,6,81500
+26,Male,Bachelor's,Sales Manager,3,92500
+25,Male,High School,Business Analyst,0,55500
+39,Male,Master's,Brand Manager,15,180000
+25,Female,Bachelor's,CTO,1,229500
+36,Female,Bachelor's,CFO,12,370000
+26,Male,High School,Research Scientist,3,83000
+26,Male,High School,Accountant,3,57000
+34,Male,Bachelor's,Mechanical Engineer,13,123000
+29,Male,Bachelor's,Account Executive,6,86000
+26,Female,High School,Frontend Developer,3,69000
+24,Male,Bachelor's,Accountant,1,62500
+22,Male,PhD,Software Engineer,2,125500
+32,Male,Bachelor's,HR Specialist,10,75500
+24,Female,Bachelor's,Machine Learning Engineer,1,121500
+28,Male,Bachelor's,Senior Data Scientist,4,149000
+23,Male,Bachelor's,Frontend Developer,0,78000
+29,Male,High School,Graphic Designer,9,56500
+46,Female,Bachelor's,Operations Manager,21,152500
+48,Female,Master's,Senior Data Scientist,28,282500
+28,Female,Bachelor's,Chemical Engineer,1,101500
+25,Male,Master's,Senior Financial Analyst,4,120000
+22,Female,High School,CTO,2,216000
+27,Male,Bachelor's,Content Strategist,4,82000
+40,Male,PhD,CTO,14,549000
+26,Male,Bachelor's,Senior Manager,3,116500
+47,Female,Bachelor's,Recruiter,23,108000
+23,Male,Master's,Mechanical Engineer,0,98500
+38,Female,Bachelor's,Senior Product Manager,14,215500
+27,Female,Master's,Biomedical Engineer,6,118000
+22,Female,Master's,Business Development Manager,3,151000
+53,Male,Master's,VP of Engineering,27,448000
+25,Female,Master's,Civil Engineer,4,99000
+29,Male,Bachelor's,Supply Chain Manager,4,101500
+33,Female,Bachelor's,Product Manager,8,151500
+25,Female,Bachelor's,Graphic Designer,3,64500
+22,Female,PhD,VP,0,257500
+34,Male,Master's,Senior Data Analyst,12,155500
+32,Female,Master's,UX Designer,7,124500
+27,Male,High School,Senior Software Engineer,4,103500
+27,Male,High School,Sales Manager,3,79000
+41,Female,High School,Mechanical Engineer,21,115500
+34,Male,Bachelor's,UX Designer,11,114000
+24,Female,Bachelor's,Senior Software Engineer,2,120000
+26,Male,PhD,Data Engineer,3,163500
+31,Male,Bachelor's,CFO,7,292000
+24,Male,Master's,CFO,0,290500
+29,Female,Master's,Cloud Architect,5,216000
+27,Female,Bachelor's,VP of Engineering,2,188000
+29,Male,PhD,Senior Data Scientist,8,228000
+30,Female,Master's,HR Manager,8,105000
+35,Male,Bachelor's,Manager,10,120000
+28,Male,Bachelor's,Senior Product Manager,4,163500
+28,Female,Bachelor's,Brand Manager,3,90500
+40,Female,Master's,Biomedical Engineer,15,157000
+23,Female,PhD,Chemical Engineer,0,130500
+33,Female,Master's,Business Development Manager,8,156000
+42,Female,Master's,Business Development Manager,21,209000
+30,Female,Master's,Financial Analyst,7,102500
+24,Male,Bachelor's,Chemical Engineer,3,92500
+23,Male,Bachelor's,Mobile Developer,0,93500
+24,Female,Master's,Full Stack Developer,1,126000
+27,Female,Bachelor's,VP,7,237000
+35,Female,Master's,Accountant,9,84000
+24,Female,Master's,Financial Analyst,1,91500
+22,Male,High School,HR Specialist,0,44500
+26,Female,High School,CFO,3,189000
+28,Male,Bachelor's,Senior Accountant,5,94000
+26,Male,PhD,Research Scientist,5,179500
+28,Female,Master's,Content Strategist,5,87000
+26,Male,High School,Data Analyst,2,61500
+25,Male,Bachelor's,CEO,0,253500
+24,Female,Master's,Senior Data Analyst,0,108000
+26,Female,Bachelor's,Senior Accountant,3,87500
+27,Male,Bachelor's,UI Designer,4,99500
+45,Female,PhD,Marketing Manager,20,184500
+24,Female,Bachelor's,Content Strategist,1,62500
+30,Male,Master's,Marketing Manager,6,111500
+29,Female,Bachelor's,UX Designer,7,93000
+28,Female,Bachelor's,CEO,4,333000
+22,Female,Bachelor's,VP of Engineering,0,229500
+29,Male,PhD,COO,5,309000
+25,Female,High School,Financial Analyst,2,67500
+23,Female,Bachelor's,Cloud Architect,0,123500
+35,Male,High School,Biomedical Engineer,12,104000
+45,Male,Bachelor's,Data Analyst,21,115500
+30,Male,Bachelor's,Frontend Developer,6,92500
+35,Female,Bachelor's,Marketing Manager,11,115000
+28,Female,Master's,Senior Software Engineer,1,144500
+31,Female,Master's,Civil Engineer,7,105000
+22,Male,Bachelor's,Senior Financial Analyst,0,99000
+32,Female,Master's,Intern,9,55500
+30,Male,Bachelor's,Manager,7,95000
+55,Male,PhD,VP,34,472500
+41,Female,PhD,CFO,21,576500
+31,Male,Bachelor's,Project Manager,5,91000
+41,Male,Bachelor's,VP of Engineering,17,297500
+24,Male,High School,Frontend Developer,0,63000
+33,Male,PhD,Mechanical Engineer,6,119500
+27,Female,Master's,HR Specialist,2,68000
+26,Female,PhD,Senior Data Analyst,3,148500
+28,Female,Bachelor's,Cybersecurity Analyst,6,106500
+22,Female,Bachelor's,Logistics Coordinator,0,52500
+28,Male,Master's,Accountant,2,79500
+34,Female,Bachelor's,Graphic Designer,14,84000
+25,Male,High School,Investment Banker,0,85500
+22,Male,PhD,Operations Manager,1,116000
+35,Female,High School,Data Scientist,9,111000
+28,Male,Bachelor's,Machine Learning Engineer,2,114500
+29,Male,Bachelor's,Digital Marketing Specialist,3,56500
+27,Female,High School,Director of Engineering,5,156000
+25,Male,PhD,DevOps Engineer,0,121000
+33,Male,Master's,CEO,9,405500
+43,Male,Bachelor's,Senior Accountant,18,138500
+43,Male,Bachelor's,Account Executive,17,119000
+23,Male,High School,Manager,0,62000
+25,Female,Bachelor's,Business Analyst,0,75500
+28,Male,Bachelor's,Mechanical Engineer,2,67000
+23,Female,PhD,Account Executive,0,96500
+36,Female,Master's,Mobile Developer,12,133500
+24,Male,Master's,Brand Manager,5,129000
+24,Male,Bachelor's,Machine Learning Engineer,0,117000
+26,Female,Master's,Sales Representative,2,69000
+40,Male,Bachelor's,Data Engineer,19,183000
+22,Female,Bachelor's,Data Engineer,0,102000
+27,Male,PhD,Backend Developer,3,135000
+26,Male,Bachelor's,VP,0,165500
+25,Female,Bachelor's,Junior Developer,3,59000
+29,Male,Master's,Investment Banker,6,182000
+29,Male,Bachelor's,Cloud Architect,5,163000
+23,Female,Bachelor's,Project Manager,1,88000
+34,Female,Bachelor's,Data Scientist,9,151000
+29,Female,Bachelor's,Supply Chain Manager,6,101000
+28,Female,Bachelor's,Business Analyst,0,74000
+32,Male,Bachelor's,Senior Financial Analyst,5,107500
+25,Male,Bachelor's,Data Analyst,2,64500
+40,Male,Bachelor's,CFO,19,421500
+27,Female,Master's,Mechanical Engineer,3,112500
+35,Male,Bachelor's,Scrum Master,9,124000
+26,Female,Master's,Data Analyst,4,94500
+35,Male,High School,CEO,11,316500
+63,Male,Bachelor's,Junior Developer,39,110000
+27,Female,Master's,UI Designer,1,98500
+22,Female,PhD,Civil Engineer,0,91500
+24,Male,Master's,Senior Manager,0,134000
+27,Male,Bachelor's,Junior Developer,1,56500
+25,Male,Bachelor's,VP,0,177500
+27,Male,Bachelor's,Data Analyst,2,68000
+25,Female,Master's,DevOps Engineer,4,141000
+29,Female,Bachelor's,Intern,4,44000
+25,Female,Master's,Content Strategist,2,78000
+25,Female,Bachelor's,Senior Data Scientist,0,135000
+24,Male,Master's,Cybersecurity Analyst,3,131000
+25,Male,Bachelor's,Supply Chain Manager,0,81500
+31,Male,Master's,Senior Data Analyst,8,130000
+24,Female,Bachelor's,Senior Data Scientist,5,164500
+37,Female,Master's,Senior Manager,12,177000
+25,Female,Master's,Machine Learning Engineer,3,142000
+23,Male,PhD,Director of Engineering,0,231500
+37,Female,Master's,UI Designer,15,120000
+22,Male,High School,Sales Manager,2,71500
+31,Female,Bachelor's,Account Executive,4,77000
+34,Female,Bachelor's,Financial Analyst,10,84500
+35,Male,Bachelor's,Sales Manager,9,133500
+24,Male,Bachelor's,HR Manager,2,79500
+48,Female,Bachelor's,Scrum Master,22,182500
+31,Male,Bachelor's,Civil Engineer,5,98500
+27,Male,Bachelor's,Software Engineer,3,100000
+29,Male,Bachelor's,Chemical Engineer,6,97000
+25,Female,Bachelor's,Accountant,0,64500
+36,Male,PhD,Senior Manager,10,205000
+40,Male,Bachelor's,Junior Developer,15,74000
+31,Male,Master's,Product Manager,8,185000
+24,Female,Bachelor's,Senior Financial Analyst,0,83000
+26,Male,Master's,Brand Manager,3,111000
+22,Female,Master's,Electrical Engineer,0,99000
+26,Female,Bachelor's,Data Engineer,1,112000
+28,Male,PhD,CEO,4,431000
+22,Female,PhD,Business Analyst,0,94000
+29,Female,Master's,Mobile Developer,8,116000
+44,Female,Bachelor's,Frontend Developer,18,126500
+35,Male,High School,Director of Engineering,11,196000
+31,Female,Master's,Senior Accountant,6,120500
+27,Female,Bachelor's,Logistics Coordinator,1,59500
+25,Male,Bachelor's,Brand Manager,1,91000
+31,Female,Master's,Senior Product Manager,6,211500
+28,Male,Master's,Operations Manager,1,108000
+24,Female,Bachelor's,COO,2,224000
+26,Female,PhD,Sales Manager,4,153000
+36,Male,Master's,Marketing Manager,11,120500
+28,Male,PhD,Civil Engineer,7,123000
+22,Male,Master's,Content Strategist,1,79000
+32,Male,Master's,Logistics Coordinator,10,86000
+26,Female,Master's,Business Analyst,3,91000
+39,Female,Bachelor's,Senior Financial Analyst,15,156000
+27,Female,Master's,Electrical Engineer,3,103000
+35,Male,PhD,Brand Manager,12,170500
+25,Male,High School,COO,0,183500
+24,Male,PhD,Cloud Architect,1,182000
+27,Male,High School,Director of Engineering,3,155500
+22,Female,Bachelor's,Intern,0,41000
+23,Male,Bachelor's,Director,0,157000
+55,Male,Bachelor's,Cloud Architect,32,317500
+26,Male,Bachelor's,Cloud Architect,1,141500
+30,Female,Bachelor's,Electrical Engineer,5,110000
+30,Female,High School,Senior Accountant,4,79000
+28,Female,PhD,Project Manager,1,119000
+30,Male,High School,Senior Accountant,5,78500
+22,Male,Bachelor's,Software Engineer,0,98500
+28,Female,High School,Electrical Engineer,8,77000
+33,Female,PhD,Business Analyst,7,120000
+33,Female,High School,Senior Software Engineer,9,119000
+25,Female,High School,Business Analyst,1,61000
+30,Female,Master's,Director,6,214000
+33,Female,Bachelor's,VP,11,238000
+29,Male,Master's,Senior Product Manager,6,194500
+30,Male,Bachelor's,CFO,7,299500
+26,Male,Master's,Electrical Engineer,3,104500
+26,Female,PhD,VP of Engineering,0,222000
+25,Female,Bachelor's,Operations Manager,0,82500
+33,Female,High School,Brand Manager,12,88000
+25,Female,PhD,Full Stack Developer,1,128500
+27,Male,PhD,Supply Chain Manager,2,140500
+28,Female,Bachelor's,Machine Learning Engineer,4,122000
+22,Female,Bachelor's,Chemical Engineer,0,82500
+30,Male,High School,Manager,3,69000
+33,Female,Master's,Chemical Engineer,10,143000
+28,Male,Bachelor's,Director,10,230500
+30,Male,Bachelor's,DevOps Engineer,8,131000
+32,Female,Bachelor's,Chemical Engineer,8,89000
+38,Male,PhD,UX Designer,11,154000
+25,Female,Master's,Intern,3,53000
+24,Female,Bachelor's,Supply Chain Manager,2,90500
+42,Female,Bachelor's,HR Manager,18,131000
+33,Female,Bachelor's,Manager,11,109000
+36,Male,Master's,Director of Engineering,11,243500
+36,Male,Bachelor's,UI Designer,14,109000
+37,Male,Master's,Full Stack Developer,11,154000
+26,Female,Bachelor's,COO,3,227500
+24,Male,High School,VP of Engineering,2,162500
+26,Male,Bachelor's,Junior Developer,4,61000
+32,Female,Bachelor's,Senior Software Engineer,6,141500
+25,Male,High School,Full Stack Developer,1,63500
+26,Male,PhD,CEO,4,431000
+27,Female,Bachelor's,CEO,4,325500
+25,Male,Bachelor's,HR Specialist,1,53500
+26,Male,Bachelor's,Data Engineer,3,126000
+35,Male,Bachelor's,Frontend Developer,10,99500
+27,Female,PhD,Financial Analyst,3,117000
+27,Male,Bachelor's,UI Designer,2,84500
+32,Male,Master's,Content Strategist,7,88000
+31,Male,PhD,Director,9,248000
+33,Male,High School,Senior Manager,8,124500
+25,Male,Bachelor's,Electrical Engineer,2,89000
+37,Female,Bachelor's,Software Engineer,12,119000
+22,Male,High School,Biomedical Engineer,1,74500
+27,Male,Bachelor's,Mobile Developer,4,86000
+34,Male,Master's,Graphic Designer,9,86500
+22,Male,Master's,Machine Learning Engineer,0,152500
+38,Male,PhD,HR Manager,15,167500
+23,Female,Bachelor's,Director,1,144000
+24,Female,Master's,Senior Accountant,0,105500
+23,Male,Bachelor's,Supply Chain Manager,2,107500
+28,Female,Bachelor's,Financial Analyst,5,89000
+42,Male,Master's,Civil Engineer,18,163500
+27,Female,PhD,Investment Banker,3,201000
+31,Female,Bachelor's,Machine Learning Engineer,4,136500
+25,Male,Master's,Intern,5,55000
+25,Female,PhD,COO,2,328000
+23,Female,High School,Civil Engineer,0,70500
+22,Male,Master's,UX Designer,2,111000
+25,Male,Master's,Financial Analyst,4,87500
+24,Male,Bachelor's,Civil Engineer,1,76000
+27,Male,Master's,Mobile Developer,1,100500
+28,Male,Bachelor's,COO,4,247500
+30,Male,PhD,Data Analyst,8,112500
+25,Female,Bachelor's,Machine Learning Engineer,1,119500
+22,Male,Master's,Senior Product Manager,0,168500
+30,Male,PhD,Scrum Master,7,144500
+36,Male,Bachelor's,Recruiter,12,89500
+22,Male,Bachelor's,Senior Product Manager,0,127000
+22,Female,Master's,Senior Manager,0,126000
+22,Female,Master's,Junior Developer,0,60000
+28,Female,Bachelor's,Mechanical Engineer,1,85000
+41,Male,Bachelor's,DevOps Engineer,15,168000
+27,Female,Master's,HR Specialist,5,86000
+25,Female,Master's,Intern,1,50500
+26,Male,Bachelor's,Senior Manager,3,124000
+30,Male,Bachelor's,Project Manager,5,87500
+25,Female,High School,Chemical Engineer,2,75000
+33,Male,Bachelor's,UI Designer,7,94000
+27,Male,PhD,Frontend Developer,0,116000
+43,Female,Bachelor's,Business Development Manager,19,145500
+26,Male,Bachelor's,Civil Engineer,5,90000
+31,Female,Bachelor's,Mechanical Engineer,9,106000
+29,Male,Master's,UI Designer,6,106500
+48,Male,Master's,Frontend Developer,25,170500
+41,Female,High School,Senior Software Engineer,18,141500
+30,Female,Master's,CTO,9,351000
+33,Female,Bachelor's,Graphic Designer,5,70500
+26,Male,Bachelor's,Data Engineer,5,120500
+24,Female,Bachelor's,Senior Product Manager,0,140000
+27,Female,Bachelor's,Operations Manager,2,99000
+24,Male,Bachelor's,Operations Manager,3,100000
+32,Male,Master's,Graphic Designer,9,84500
+26,Male,Bachelor's,Data Analyst,3,72500
+33,Female,Bachelor's,Recruiter,8,68500
+36,Female,PhD,Brand Manager,15,166000
+32,Female,Bachelor's,Scrum Master,7,119500
+23,Female,Bachelor's,Senior Data Scientist,1,152500
+25,Female,Bachelor's,Senior Manager,0,118500
+30,Male,Master's,Manager,2,96500
+28,Female,Bachelor's,CEO,2,304000
+32,Male,PhD,Electrical Engineer,8,165500
+36,Male,High School,Senior Data Scientist,11,142000
+25,Female,Master's,Senior Software Engineer,0,146000
+33,Male,Master's,Backend Developer,6,129000
+24,Female,Bachelor's,Intern,2,42500
+28,Female,Bachelor's,Intern,6,48500
+28,Female,Bachelor's,Operations Manager,6,118500
+25,Male,PhD,Marketing Manager,2,115500
+22,Male,Bachelor's,Account Executive,0,79500
+26,Female,Bachelor's,Intern,2,41000
+30,Male,PhD,Brand Manager,6,166500
+31,Female,High School,Cloud Architect,6,128500
+32,Female,Bachelor's,Backend Developer,8,94500
+36,Male,PhD,Product Manager,10,217000
+22,Female,Bachelor's,Project Manager,0,81000
+32,Male,Master's,Senior Data Scientist,6,176000
+25,Male,Bachelor's,Mobile Developer,1,92000
+32,Male,Bachelor's,Mechanical Engineer,9,110000
+29,Male,Master's,Business Development Manager,3,125000
+29,Female,Bachelor's,Junior Developer,5,57500
+26,Female,Master's,Senior Financial Analyst,3,122000
+24,Female,High School,Business Analyst,1,59000
+63,Female,Master's,Brand Manager,37,235500
+29,Male,Bachelor's,Senior Manager,3,131500
+31,Female,Bachelor's,Brand Manager,7,98000
+32,Female,Master's,Backend Developer,9,142000
+29,Male,Master's,Supply Chain Manager,1,100000
+29,Male,Bachelor's,Senior Financial Analyst,0,90500
+24,Male,High School,Content Strategist,0,46500
+34,Male,Bachelor's,Sales Representative,7,62000
+33,Female,Bachelor's,Electrical Engineer,6,111000
+29,Male,Master's,VP,4,226500
+37,Female,Bachelor's,Electrical Engineer,16,149000
+28,Female,Bachelor's,COO,9,265500
+24,Male,Bachelor's,COO,0,221000
+23,Male,High School,Marketing Manager,2,68500
+25,Female,PhD,Sales Manager,4,122000
+30,Female,PhD,Cybersecurity Analyst,3,130500
+31,Female,Bachelor's,COO,4,240500
+25,Female,Bachelor's,Senior Product Manager,1,132000
+26,Female,Master's,VP of Engineering,2,236000
+30,Male,Master's,Senior Data Scientist,8,200000
+29,Male,Bachelor's,Data Engineer,2,115000
+25,Female,Bachelor's,Account Executive,1,77500
+26,Male,Bachelor's,Junior Developer,6,64000
+27,Male,Bachelor's,Chemical Engineer,1,84000
+27,Female,Bachelor's,Backend Developer,2,84500
+25,Female,PhD,Senior Manager,1,126500
+33,Female,PhD,Sales Representative,7,83500
+50,Female,High School,COO,28,338500
+27,Female,Master's,Cybersecurity Analyst,3,119000
+23,Female,Bachelor's,Research Scientist,1,108000
+32,Male,Master's,Senior Manager,6,151000
+30,Female,Master's,Senior Financial Analyst,6,148500
+26,Male,PhD,Director,5,246500
+25,Male,Bachelor's,Director,1,148500
+23,Male,Bachelor's,Graphic Designer,1,58000
+24,Male,Bachelor's,Brand Manager,1,80000
+24,Female,Bachelor's,Data Analyst,5,74500
+31,Female,Bachelor's,Director,4,193500
+50,Male,Bachelor's,Chemical Engineer,22,156500
+35,Female,PhD,Software Engineer,12,160500
+22,Male,Bachelor's,Backend Developer,0,85500
+33,Male,PhD,Manager,8,118000
+28,Male,High School,Project Manager,7,95000
+22,Male,Bachelor's,Civil Engineer,0,75000
+28,Female,PhD,HR Manager,6,137500
+24,Male,Bachelor's,Sales Manager,0,86500
+26,Female,Bachelor's,Senior Software Engineer,4,124000
+25,Male,PhD,Frontend Developer,1,112000
+25,Female,Bachelor's,Biomedical Engineer,3,104500
+30,Female,Bachelor's,Director,6,187500
+27,Male,Master's,Director of Engineering,1,165000
+63,Female,Bachelor's,Full Stack Developer,39,200500
+23,Male,Bachelor's,Intern,1,36000
+29,Male,Master's,Investment Banker,6,192500
+22,Male,Master's,Cybersecurity Analyst,1,110000
+24,Male,Master's,Accountant,2,75500
+30,Female,Bachelor's,Digital Marketing Specialist,9,74500
+29,Female,Bachelor's,UX Designer,4,92000
+23,Male,Master's,Content Strategist,1,66500
+22,Male,Bachelor's,Frontend Developer,0,78500
+22,Male,Bachelor's,Data Scientist,0,97500
+23,Female,Master's,HR Specialist,2,69500
+30,Male,Bachelor's,HR Manager,6,102500
+25,Male,Bachelor's,COO,2,229000
+31,Male,Bachelor's,UX Designer,4,104500
+26,Female,Master's,Data Analyst,1,83500
+26,Female,Bachelor's,Manager,0,71000
+23,Male,Master's,Senior Data Scientist,2,159500
+34,Male,Bachelor's,Cybersecurity Analyst,8,126500
+22,Female,Master's,Civil Engineer,0,96500
+22,Female,Master's,UI Designer,2,91000
+29,Female,High School,Intern,5,36000
+22,Female,Master's,Logistics Coordinator,0,55500
+24,Male,Bachelor's,Machine Learning Engineer,1,117500
+29,Female,PhD,Mechanical Engineer,3,129500
+27,Female,Bachelor's,Data Scientist,1,93000
+29,Male,High School,Senior Financial Analyst,5,92500
+27,Male,Master's,Biomedical Engineer,1,118000
+41,Male,Master's,Sales Manager,16,158500
+29,Female,Bachelor's,Project Manager,4,97500
+25,Male,Master's,Senior Data Analyst,2,120500
+23,Male,Master's,Director,1,169500
+22,Male,Bachelor's,Content Strategist,0,61500
+43,Female,Bachelor's,COO,20,392000
+52,Male,Master's,Senior Financial Analyst,30,232500
+32,Female,Master's,COO,7,313500
+25,Male,Bachelor's,Software Engineer,0,82000
+23,Male,Master's,Graphic Designer,3,75500
+49,Male,Master's,Senior Product Manager,27,277000
+23,Male,PhD,Chemical Engineer,1,115000
+25,Female,Bachelor's,Project Manager,2,87000
+33,Female,Bachelor's,VP of Engineering,8,262000
+30,Female,PhD,HR Manager,6,112500
+26,Female,Bachelor's,Brand Manager,4,96000
+28,Female,Bachelor's,Digital Marketing Specialist,4,71000
+33,Male,Bachelor's,Business Analyst,11,99500
+44,Female,High School,Product Manager,18,151500
+24,Male,Master's,Senior Product Manager,2,217000
+25,Male,Bachelor's,Graphic Designer,5,65000
+33,Male,Master's,HR Manager,9,126500
+26,Male,Bachelor's,Business Development Manager,5,100000
+26,Male,Master's,Account Executive,0,80000
+33,Male,Bachelor's,Full Stack Developer,7,112500
+34,Female,High School,Investment Banker,10,140000
+33,Female,PhD,VP,9,283000
+22,Male,Master's,Electrical Engineer,0,113500
+23,Male,Bachelor's,Junior Developer,1,57500
+24,Male,High School,Accountant,2,48500
+27,Male,Bachelor's,Civil Engineer,5,81000
+35,Male,Master's,Sales Manager,16,164500
+22,Male,PhD,HR Manager,0,97500
+34,Male,Bachelor's,Mobile Developer,10,107500
+40,Male,High School,Scrum Master,16,108500
+46,Female,High School,Brand Manager,21,114500
+27,Male,Master's,Biomedical Engineer,0,104500
+34,Female,PhD,Cloud Architect,11,256000
+28,Female,Bachelor's,Senior Data Analyst,3,84000
+25,Female,Master's,Senior Data Analyst,1,95000
+31,Female,Master's,Data Analyst,7,87500
+26,Male,Bachelor's,Data Analyst,3,71000
+44,Male,Bachelor's,Mechanical Engineer,20,134000
+25,Female,PhD,Business Development Manager,3,153500
+25,Male,Bachelor's,Cybersecurity Analyst,1,104500
+28,Male,High School,Project Manager,2,65500
+29,Female,Bachelor's,Logistics Coordinator,6,68000
+26,Male,Bachelor's,Senior Product Manager,1,135500
+26,Female,Master's,VP,3,243500
+27,Male,Master's,Electrical Engineer,1,99000
+26,Female,Master's,Senior Financial Analyst,2,115000
+23,Male,Bachelor's,Research Scientist,0,99000
+22,Female,PhD,Senior Product Manager,0,195000
+25,Female,PhD,DevOps Engineer,1,156000
+28,Male,Bachelor's,Director,5,171000
+25,Male,Bachelor's,Operations Manager,3,107500
+29,Male,Master's,Project Manager,6,107000
+37,Male,Master's,Operations Manager,17,159000
+29,Male,Bachelor's,Content Strategist,4,69500
+33,Female,Master's,Senior Product Manager,11,205500
+35,Female,Bachelor's,Director,11,216000
+35,Female,Master's,Electrical Engineer,13,149500
+26,Female,Master's,Cloud Architect,4,198000
+30,Female,Bachelor's,Product Manager,9,147000
+26,Male,Master's,Senior Data Analyst,4,99000
+31,Female,Bachelor's,Backend Developer,8,96500
+25,Male,Bachelor's,Marketing Manager,0,73500
+36,Female,Master's,Chemical Engineer,13,153500
+27,Female,Master's,UX Designer,3,105500
+22,Female,Bachelor's,Electrical Engineer,1,97500
+30,Male,Bachelor's,UX Designer,6,96500
+32,Female,Bachelor's,Operations Manager,7,108000
+23,Male,Master's,Machine Learning Engineer,0,129000
+36,Male,Master's,Marketing Manager,12,136000
+32,Male,PhD,HR Specialist,8,100000
+32,Female,High School,Electrical Engineer,9,88000
+29,Male,Bachelor's,CTO,6,268000
+33,Male,PhD,Senior Financial Analyst,9,170000
+33,Female,Bachelor's,HR Manager,7,108500
+23,Female,Bachelor's,DevOps Engineer,2,107500
+27,Female,Bachelor's,Business Analyst,0,66000
+30,Female,Bachelor's,COO,5,255000
+22,Male,Bachelor's,Accountant,2,63000
+28,Female,High School,Director,5,158000
+26,Female,PhD,Cloud Architect,5,223000
+22,Male,Bachelor's,Accountant,0,57500
+22,Male,Master's,Electrical Engineer,0,105500
+38,Male,High School,HR Manager,12,87500
+28,Male,Bachelor's,Project Manager,0,76500
+25,Female,Bachelor's,COO,2,222000
+50,Male,Master's,Cloud Architect,23,303500
+31,Female,Master's,Senior Data Scientist,4,180000
+41,Female,Bachelor's,COO,18,341500
+27,Female,Master's,Manager,5,101500
+28,Female,Bachelor's,Marketing Manager,5,96500
+32,Female,High School,Senior Financial Analyst,8,102000
+35,Male,Bachelor's,Product Manager,10,146000
+29,Male,PhD,Machine Learning Engineer,6,178000
+31,Female,PhD,Graphic Designer,10,107500
+29,Female,Master's,Chemical Engineer,4,103500
+27,Male,Bachelor's,Operations Manager,4,100500
+26,Female,Master's,Product Manager,3,144000
+36,Female,Bachelor's,Senior Accountant,11,111500
+25,Female,Master's,COO,1,276500
+28,Male,PhD,Mobile Developer,2,114000
+26,Male,PhD,Data Engineer,1,155000
+28,Male,Bachelor's,Machine Learning Engineer,2,130500
+37,Male,Bachelor's,Senior Accountant,11,109500
+27,Male,PhD,Project Manager,1,112500
+26,Male,Master's,Senior Data Scientist,4,191000
+27,Female,Bachelor's,Backend Developer,4,90000
+33,Male,High School,Chemical Engineer,6,88000
+26,Female,Master's,Senior Financial Analyst,3,124000
+24,Female,Master's,Accountant,0,70500
+41,Male,Bachelor's,CTO,16,417500
+23,Male,Master's,Civil Engineer,4,101000
+23,Male,Master's,Recruiter,0,74000
+26,Female,Bachelor's,Director of Engineering,3,180500
+24,Female,Bachelor's,Investment Banker,0,134500
+35,Male,Bachelor's,Cybersecurity Analyst,13,132500
+48,Female,Master's,Recruiter,25,122500
+27,Male,High School,Senior Software Engineer,4,108500
+27,Female,Bachelor's,Senior Manager,3,137500
+30,Female,PhD,Software Engineer,7,143500
+26,Male,High School,Senior Product Manager,1,119000
+29,Male,Bachelor's,Research Scientist,5,115500
+29,Male,Bachelor's,Brand Manager,4,95000
+23,Male,Bachelor's,Software Engineer,6,107000
+22,Male,PhD,COO,1,320500
+64,Male,Bachelor's,Brand Manager,40,195000
+24,Female,Bachelor's,UI Designer,4,89500
+27,Female,High School,CEO,2,208500
+34,Male,High School,Investment Banker,11,144500
+32,Female,Bachelor's,Civil Engineer,8,87000
+30,Male,Bachelor's,Senior Product Manager,1,149500
+32,Female,Bachelor's,DevOps Engineer,8,128000
+33,Female,Bachelor's,Backend Developer,10,105500
+36,Female,Bachelor's,Cybersecurity Analyst,10,127500
+33,Male,Bachelor's,Senior Financial Analyst,11,125000
+24,Female,Bachelor's,Software Engineer,0,98000
+31,Female,PhD,Project Manager,5,136500
+26,Male,Master's,COO,3,269000
+26,Male,Master's,DevOps Engineer,0,136000
+37,Female,Master's,Mobile Developer,12,139000
+25,Male,Bachelor's,Senior Software Engineer,2,124500
+25,Female,Master's,Director,1,185500
+29,Female,Master's,Graphic Designer,5,84500
+26,Female,Master's,Biomedical Engineer,3,95500
+52,Female,Bachelor's,HR Manager,30,143000
+27,Female,Master's,Cybersecurity Analyst,3,122500
+22,Female,Bachelor's,Senior Financial Analyst,0,94500
+22,Female,Master's,Full Stack Developer,0,113000
+22,Male,Master's,Scrum Master,0,106500
+23,Female,Master's,Supply Chain Manager,3,110500
+24,Female,Bachelor's,Chemical Engineer,2,90000
+29,Female,High School,Electrical Engineer,7,83500
+32,Male,PhD,Senior Product Manager,10,254500
+25,Female,Bachelor's,Junior Developer,1,55000
+39,Female,PhD,Backend Developer,13,196000
+27,Male,Bachelor's,Cloud Architect,3,131500
+28,Male,Bachelor's,Senior Data Analyst,6,109000
+26,Male,Bachelor's,Frontend Developer,2,77500
+28,Female,Bachelor's,Manager,4,96000
+34,Female,Master's,Digital Marketing Specialist,11,96500
+28,Male,Master's,Intern,6,62000
+30,Male,High School,Civil Engineer,7,73500
+26,Female,Bachelor's,Sales Representative,1,54000
+25,Female,Bachelor's,Business Development Manager,1,105500
+31,Female,Bachelor's,UI Designer,7,98500
+23,Male,High School,Accountant,0,46000
+31,Male,PhD,Supply Chain Manager,6,152000
+23,Male,Master's,Sales Representative,2,68500
+28,Female,Bachelor's,Senior Data Scientist,2,154000
+51,Male,PhD,Financial Analyst,25,199000
+51,Male,Master's,HR Specialist,28,136000
+35,Male,Bachelor's,Data Scientist,12,160500
+28,Male,Bachelor's,Machine Learning Engineer,4,136500
+23,Female,Bachelor's,Backend Developer,0,86500
+34,Male,Bachelor's,Cloud Architect,8,184000
+23,Female,Bachelor's,Biomedical Engineer,0,88500
+35,Male,Master's,Operations Manager,15,136500
+35,Female,Master's,Financial Analyst,12,108000
+22,Male,Master's,Electrical Engineer,1,109000
+35,Female,PhD,Financial Analyst,12,149500
+24,Male,Bachelor's,Manager,0,88500
+25,Female,Bachelor's,Product Manager,1,109000
+26,Male,High School,UX Designer,0,67000
+31,Male,Bachelor's,Business Development Manager,6,126000
+29,Female,Master's,Content Strategist,7,83500
+28,Female,Bachelor's,Digital Marketing Specialist,7,74500
+32,Male,Master's,COO,6,326000
+25,Female,Master's,Senior Manager,0,134000
+23,Female,Master's,Chemical Engineer,2,109500
+26,Male,Bachelor's,Electrical Engineer,1,91000
+34,Female,Bachelor's,Software Engineer,9,112000
+25,Male,Master's,Product Manager,1,126000
+22,Male,Master's,Frontend Developer,2,92500
+27,Male,Bachelor's,Cloud Architect,2,124500
+27,Male,PhD,Junior Developer,2,76500
+28,Female,PhD,Senior Data Analyst,4,142000
+25,Female,Bachelor's,Software Engineer,2,85000
+22,Male,Bachelor's,Software Engineer,0,88000
+41,Female,Bachelor's,CFO,18,403000
+33,Female,Bachelor's,UI Designer,7,107000
+28,Male,High School,Logistics Coordinator,4,50500
+27,Male,PhD,DevOps Engineer,1,151500
+33,Male,PhD,Junior Developer,8,86000
+43,Male,Master's,CTO,16,399500
+26,Female,Bachelor's,Senior Data Analyst,2,100000
+26,Female,High School,Business Development Manager,2,85500
+31,Male,Bachelor's,Mobile Developer,8,106500
+37,Female,Bachelor's,Project Manager,12,110500
+25,Female,Bachelor's,CTO,0,230500
+26,Male,Bachelor's,Senior Accountant,2,86000
+33,Female,Bachelor's,Operations Manager,11,122000
+26,Male,Master's,Backend Developer,3,105500
+32,Female,Bachelor's,Data Scientist,8,120000
+24,Female,Master's,Sales Representative,1,53000
+54,Female,Master's,Graphic Designer,28,122000
+31,Male,Bachelor's,Sales Manager,6,111500
+40,Male,Bachelor's,Data Analyst,15,105000
+24,Male,PhD,Frontend Developer,1,112500
+25,Female,Bachelor's,Biomedical Engineer,4,97000
+47,Female,PhD,Sales Manager,22,202000
+24,Male,Bachelor's,Scrum Master,0,91000
+30,Female,Bachelor's,Account Executive,5,78000
+35,Male,Bachelor's,Intern,14,55000
+27,Male,Bachelor's,Data Engineer,0,116000
+29,Male,High School,Cybersecurity Analyst,5,87500
+26,Female,PhD,CFO,8,407500
+41,Female,Bachelor's,Director of Engineering,14,249500
+26,Female,High School,Content Strategist,1,49500
+44,Female,Bachelor's,COO,19,373000
+39,Male,Bachelor's,Chemical Engineer,18,137000
+27,Male,High School,Director,4,136000
+28,Female,Bachelor's,Junior Developer,6,70500
+46,Female,PhD,DevOps Engineer,23,212000
+27,Male,High School,Software Engineer,3,70000
+25,Male,Bachelor's,Operations Manager,1,93000
+30,Female,Master's,Senior Manager,7,169000
+25,Female,Master's,Director of Engineering,2,217000
+34,Male,Master's,Brand Manager,9,134500
+23,Male,Bachelor's,Supply Chain Manager,0,88500
+26,Female,High School,Director,0,129500
+35,Female,Bachelor's,Senior Manager,11,136500
+43,Female,Bachelor's,Investment Banker,19,197000
+26,Female,PhD,Senior Software Engineer,2,173000
+26,Male,Bachelor's,Intern,2,39000
+41,Male,PhD,Senior Manager,16,241000
+32,Female,Bachelor's,Business Analyst,10,87500
+37,Male,Bachelor's,Data Scientist,13,132000
+30,Male,Master's,Manager,10,132500
+31,Male,Bachelor's,Manager,6,99500
+33,Female,Master's,Accountant,11,91000
+40,Male,PhD,Graphic Designer,17,119000
+24,Male,Bachelor's,Biomedical Engineer,0,88500
+22,Female,Master's,Account Executive,0,76000
+25,Female,Master's,Cloud Architect,3,175000
+26,Female,Bachelor's,Director,0,148500
+22,Male,High School,Cybersecurity Analyst,1,76500
+28,Female,Bachelor's,Senior Manager,6,143500
+28,Male,Bachelor's,Project Manager,0,93000
+41,Male,Master's,Account Executive,17,139000
+49,Female,Bachelor's,HR Manager,26,151500
+29,Female,Bachelor's,Product Manager,4,116500
+26,Female,Bachelor's,HR Specialist,0,50500
+22,Female,Bachelor's,Research Scientist,1,108500
+30,Female,High School,Senior Accountant,7,70500
+44,Male,Master's,Logistics Coordinator,20,110000
+32,Female,Master's,Mechanical Engineer,8,120000
+26,Female,Bachelor's,Sales Representative,2,47000
+27,Female,Bachelor's,Recruiter,0,60500
+23,Female,High School,Junior Developer,0,44000
+30,Female,High School,HR Specialist,9,58500
+36,Male,Bachelor's,Content Strategist,12,94500
+27,Male,Bachelor's,Sales Manager,6,113500
+29,Female,Bachelor's,Brand Manager,2,99500
+32,Female,Bachelor's,Senior Financial Analyst,13,161000
+23,Male,Master's,Senior Software Engineer,0,144000
+60,Female,Bachelor's,Mobile Developer,35,176000
+25,Male,Master's,Data Scientist,4,140500
+32,Male,PhD,Cloud Architect,7,226500
+38,Female,Master's,Account Executive,15,120000
+30,Male,Bachelor's,Manager,7,86500
+25,Female,Bachelor's,Director of Engineering,1,177000
+26,Female,Master's,Senior Software Engineer,4,161500
+22,Female,Bachelor's,Mobile Developer,0,83500
+24,Female,High School,Digital Marketing Specialist,0,49500
+38,Male,Master's,Graphic Designer,18,104500
+36,Female,Master's,Content Strategist,15,118000
+31,Male,Bachelor's,Recruiter,2,65500
+29,Male,Master's,Marketing Manager,3,101500
+25,Female,High School,Logistics Coordinator,1,36500
+28,Female,High School,Supply Chain Manager,4,80000
+30,Female,Bachelor's,Scrum Master,3,92000
+27,Female,Bachelor's,Senior Data Analyst,9,118500
+24,Female,Bachelor's,UI Designer,0,73500
+25,Male,Bachelor's,Logistics Coordinator,2,52000
+34,Male,PhD,Scrum Master,7,123000
+41,Male,Bachelor's,Operations Manager,16,137500
+33,Female,Master's,Junior Developer,7,75500
+32,Male,Master's,Biomedical Engineer,6,128500
+32,Male,Bachelor's,UX Designer,10,116000
+26,Female,Master's,UX Designer,3,110500
+46,Male,Bachelor's,VP,21,303500
+22,Male,Bachelor's,Senior Accountant,0,86500
+26,Female,Bachelor's,Frontend Developer,4,99500
+29,Male,Bachelor's,COO,3,245000
+29,Male,Bachelor's,Senior Product Manager,7,168500
+29,Male,Master's,Intern,6,54500
+27,Male,Bachelor's,VP,5,208000
+25,Male,PhD,Cloud Architect,3,200500
+25,Male,Master's,Director of Engineering,5,222500
+22,Female,Bachelor's,Logistics Coordinator,1,52500
+30,Male,Master's,VP,7,287000
+54,Male,Bachelor's,Product Manager,27,225000
+25,Male,Bachelor's,Junior Developer,0,52500
+28,Female,Bachelor's,Chemical Engineer,4,99500
+22,Male,Bachelor's,Recruiter,1,53000
+27,Female,Bachelor's,Content Strategist,1,64000
+43,Male,Bachelor's,Backend Developer,19,150500
+29,Male,High School,Content Strategist,1,49000
+24,Female,Master's,Data Scientist,2,127500
+27,Female,Master's,Senior Product Manager,8,218500
+31,Female,Master's,Investment Banker,8,200500
+36,Female,High School,Business Analyst,15,78500
+25,Male,PhD,CFO,0,302000
+28,Male,Bachelor's,Senior Product Manager,3,158000
+53,Male,Bachelor's,Project Manager,31,176500
+26,Female,Bachelor's,Supply Chain Manager,1,81000
+41,Male,PhD,Senior Financial Analyst,14,192000
+24,Female,Bachelor's,Junior Developer,0,48000
+32,Female,High School,Electrical Engineer,8,87500
+28,Female,PhD,VP of Engineering,4,292500
+28,Female,PhD,HR Manager,3,114000
+26,Female,Master's,Senior Data Analyst,3,114500
+45,Female,Master's,Biomedical Engineer,20,169000
+26,Male,Bachelor's,Project Manager,0,88000
+32,Female,PhD,Supply Chain Manager,8,160500
+23,Female,Bachelor's,UX Designer,0,96500
+26,Female,High School,CTO,1,198500
+28,Male,Bachelor's,Chemical Engineer,8,115000
+46,Male,Bachelor's,Electrical Engineer,23,148500
+33,Male,Bachelor's,Senior Accountant,10,108000
+33,Male,Master's,Backend Developer,10,136500
+31,Male,Master's,Product Manager,11,180500
+50,Male,Master's,Full Stack Developer,27,198500
+27,Male,Master's,Frontend Developer,1,95000
+43,Male,PhD,Senior Software Engineer,18,242500
+31,Male,Bachelor's,Brand Manager,6,99000
+28,Male,Bachelor's,Operations Manager,4,96500
+28,Female,Bachelor's,CTO,4,234000
+32,Male,High School,Business Analyst,10,83000
+43,Female,Master's,Director,21,283000
+27,Female,Bachelor's,Senior Accountant,1,77000
+26,Female,Bachelor's,Full Stack Developer,3,99500
+24,Female,PhD,Mobile Developer,0,116500
+28,Male,Bachelor's,Business Analyst,5,83500
+27,Female,Bachelor's,Project Manager,4,106500
+35,Male,Bachelor's,Accountant,13,93000
+43,Female,Bachelor's,Mobile Developer,17,158500
+32,Male,Bachelor's,Manager,11,111500
+44,Female,Bachelor's,Research Scientist,19,170000
+24,Male,Bachelor's,Senior Manager,0,106000
+26,Male,Bachelor's,Accountant,4,70000
+33,Female,Master's,Data Analyst,10,99500
+36,Male,Bachelor's,VP of Engineering,11,278500
+25,Female,High School,UI Designer,4,74500
+28,Female,Master's,Cloud Architect,1,174500
+24,Male,Bachelor's,VP,2,201000
+22,Female,Bachelor's,Manager,1,75000
+29,Female,Bachelor's,Senior Software Engineer,5,157500
+25,Male,Master's,VP,3,251000
+25,Male,PhD,Senior Data Scientist,3,214000
+24,Female,Master's,Accountant,0,77000
+38,Female,Bachelor's,Product Manager,14,170000
+25,Male,Bachelor's,HR Specialist,5,61000
+34,Male,Bachelor's,Brand Manager,11,128500
+26,Female,Bachelor's,Graphic Designer,4,68500
+27,Female,Bachelor's,Senior Manager,5,142000
+35,Female,Bachelor's,DevOps Engineer,11,146000
+25,Female,PhD,Recruiter,0,73000
+26,Female,Master's,Backend Developer,3,104000
+37,Female,Bachelor's,Senior Data Analyst,10,109500
+22,Female,Bachelor's,Marketing Manager,0,79000
+26,Female,Bachelor's,Manager,1,83500
+45,Male,Bachelor's,Project Manager,19,143500
+25,Male,PhD,Cloud Architect,3,206000
+26,Male,High School,UI Designer,0,61500
+24,Female,PhD,Director,2,209000
+35,Male,Bachelor's,Data Analyst,11,88000
+35,Female,Bachelor's,Marketing Manager,14,123000
+33,Male,Bachelor's,Product Manager,9,144500
+24,Male,Bachelor's,Graphic Designer,4,63000
+43,Female,Master's,Business Analyst,19,148000
+24,Male,Bachelor's,Logistics Coordinator,0,49500
+63,Male,Bachelor's,Cybersecurity Analyst,40,223000
+31,Male,Bachelor's,HR Manager,6,80000
+24,Male,Master's,Sales Representative,3,60000
+23,Female,High School,Machine Learning Engineer,0,101500
+42,Male,Bachelor's,Operations Manager,18,154500
+47,Female,Bachelor's,Investment Banker,25,253000
+28,Female,Master's,Graphic Designer,3,72000
+24,Male,Bachelor's,Electrical Engineer,3,100000
+22,Female,PhD,Business Analyst,1,83000
+30,Female,Master's,Data Analyst,3,79000
+25,Male,Bachelor's,CTO,4,300500
+33,Female,Master's,VP,11,281500
+25,Male,Bachelor's,Civil Engineer,2,79500
+23,Male,Master's,UI Designer,2,92000
+30,Female,Bachelor's,Chemical Engineer,4,97500
+23,Male,PhD,Civil Engineer,0,114500
+29,Male,Bachelor's,Frontend Developer,4,95500
+24,Female,Bachelor's,Director of Engineering,0,176000
+39,Male,Master's,Senior Accountant,13,143500
+25,Male,Bachelor's,Biomedical Engineer,2,102000
+24,Male,High School,Sales Manager,0,75000
+29,Male,Master's,Electrical Engineer,7,130000
+29,Female,Master's,Sales Manager,1,115000
+32,Female,Bachelor's,Senior Data Scientist,8,183500
+22,Female,Bachelor's,Logistics Coordinator,0,51500
+34,Male,Bachelor's,Content Strategist,9,72000
+25,Male,High School,Mobile Developer,0,66500
+23,Female,PhD,Full Stack Developer,0,135500
+36,Female,High School,Data Engineer,11,99000
+40,Male,Master's,CFO,21,495500
+28,Female,Master's,Junior Developer,2,60000
+29,Male,Bachelor's,Senior Data Analyst,6,104000
+34,Female,Bachelor's,COO,9,302000
+28,Male,Bachelor's,Manager,5,99500
+23,Male,Bachelor's,Director,1,146500
+31,Female,PhD,Supply Chain Manager,6,146500
+24,Male,Master's,Director of Engineering,0,183500
+25,Male,Bachelor's,Senior Data Analyst,3,95000
+26,Male,Master's,Data Scientist,2,114000
+26,Female,Bachelor's,Financial Analyst,0,68000
+46,Female,Master's,Supply Chain Manager,22,200500
+50,Male,High School,Mechanical Engineer,29,129000
+33,Female,Bachelor's,UI Designer,7,96000
+31,Female,Bachelor's,Project Manager,5,104500
+24,Male,Master's,Senior Accountant,1,102000
+27,Female,High School,CEO,1,231500
+25,Male,PhD,Machine Learning Engineer,4,176500
+44,Female,Bachelor's,Business Development Manager,16,150500
+29,Male,Bachelor's,Mobile Developer,6,99000
+30,Female,Bachelor's,Digital Marketing Specialist,3,59000
+23,Female,Master's,CFO,0,272000
+30,Female,Bachelor's,Account Executive,4,88500
+24,Female,High School,Cybersecurity Analyst,0,78500
+30,Male,Bachelor's,Senior Product Manager,6,172000
+43,Female,Bachelor's,UX Designer,22,152000
+24,Male,High School,Sales Representative,1,44000
+27,Male,PhD,Sales Manager,3,121000
+25,Female,Master's,VP,0,238500
+32,Male,Bachelor's,Mechanical Engineer,10,112000
+29,Female,High School,Business Development Manager,4,82500
+30,Female,Bachelor's,VP of Engineering,5,254500
+26,Female,Bachelor's,Financial Analyst,0,79000
+26,Female,Bachelor's,Account Executive,0,63500
+36,Male,Bachelor's,Content Strategist,12,104500
+28,Female,Bachelor's,Cybersecurity Analyst,6,127500
+28,Male,Master's,Content Strategist,8,91500
+41,Male,Bachelor's,Accountant,15,87000
+55,Female,Bachelor's,Scrum Master,33,203000
+28,Male,Bachelor's,Graphic Designer,3,64000
+30,Male,PhD,Cloud Architect,6,183500
+25,Female,Bachelor's,Marketing Manager,4,91500
+23,Male,Bachelor's,Logistics Coordinator,0,54000
+22,Male,Bachelor's,Marketing Manager,0,71500
+26,Female,Master's,Sales Representative,4,63500
+33,Female,Bachelor's,UX Designer,6,103000
+42,Male,PhD,CEO,20,625500
+48,Female,PhD,Mechanical Engineer,25,216500
+22,Male,Bachelor's,Product Manager,0,114000
+36,Male,Master's,Intern,14,75500
+22,Female,PhD,Accountant,0,82500
+37,Female,Master's,Supply Chain Manager,13,146500
+25,Male,PhD,Brand Manager,2,128500
+53,Female,PhD,Senior Product Manager,28,372500
+29,Male,Bachelor's,Data Analyst,9,74000
+24,Male,Bachelor's,Senior Manager,0,105500
+57,Female,Master's,Financial Analyst,34,188000
+29,Male,PhD,Full Stack Developer,5,145500
+29,Female,PhD,Chemical Engineer,5,134000
+32,Male,High School,Data Analyst,7,65500
+48,Female,Bachelor's,Scrum Master,23,176000
+30,Female,Bachelor's,Electrical Engineer,7,108000
+26,Male,Bachelor's,Research Scientist,3,106500
+22,Female,Bachelor's,Business Development Manager,0,96500
+22,Female,Master's,Accountant,1,81500
+30,Female,Master's,Cybersecurity Analyst,9,155000
+29,Female,Bachelor's,Backend Developer,5,92000
+30,Female,Bachelor's,COO,3,261000
+29,Male,Bachelor's,Chemical Engineer,7,110000
+26,Female,Master's,Marketing Manager,1,89000
+33,Male,Bachelor's,Research Scientist,9,137000
+28,Male,Bachelor's,Frontend Developer,8,103500
+22,Male,Bachelor's,Graphic Designer,0,57500
+30,Male,High School,Scrum Master,3,83000
+48,Male,High School,Frontend Developer,26,108000
+33,Male,Bachelor's,Sales Representative,6,62000
+22,Male,Bachelor's,Product Manager,0,118000
+33,Male,Bachelor's,Senior Product Manager,4,167000
+22,Female,Bachelor's,Junior Developer,2,52000
+31,Male,Bachelor's,Software Engineer,8,114500
+27,Female,Bachelor's,Director of Engineering,6,190500
+32,Male,Bachelor's,Content Strategist,5,74000
+30,Male,PhD,Cloud Architect,8,224500
+38,Male,Master's,Senior Manager,12,185000
+39,Male,High School,Senior Accountant,16,110500
+34,Male,PhD,VP of Engineering,10,380000
+24,Male,Master's,Senior Data Scientist,1,176000
+23,Female,Bachelor's,Supply Chain Manager,0,89000
+32,Male,Master's,Electrical Engineer,6,127000
+30,Male,Master's,Backend Developer,8,117000
+31,Female,High School,Sales Representative,6,50000
+23,Female,Bachelor's,Accountant,0,61000
+38,Female,Bachelor's,Mechanical Engineer,14,129000
+25,Female,Bachelor's,Investment Banker,1,158000
+27,Female,PhD,Director of Engineering,3,239000
+22,Male,Master's,Manager,1,103500
+36,Male,PhD,Marketing Manager,12,143500
+31,Female,Bachelor's,Sales Representative,9,70500
+44,Male,Master's,Marketing Manager,22,178000
+28,Male,Bachelor's,DevOps Engineer,2,104000
+28,Male,Bachelor's,Senior Financial Analyst,4,111000
+37,Male,Master's,Senior Accountant,10,123000
+25,Female,Bachelor's,Brand Manager,1,91500
+28,Male,Bachelor's,Investment Banker,4,160000
+29,Male,Master's,Operations Manager,5,112000
+27,Female,High School,Account Executive,6,63000
+25,Male,PhD,Backend Developer,0,97500
+24,Male,Master's,Mobile Developer,0,92000
+35,Female,Master's,Research Scientist,9,153500
+25,Male,Master's,DevOps Engineer,4,129500
+25,Male,High School,Junior Developer,1,45500
+54,Male,Bachelor's,Project Manager,32,186500
+23,Male,PhD,CFO,2,345000
+23,Male,Bachelor's,Product Manager,1,109500
+22,Female,Bachelor's,Senior Accountant,1,79500
+28,Male,PhD,Senior Product Manager,4,240000
+30,Male,Master's,UI Designer,5,110500
+37,Female,PhD,UI Designer,9,136000
+30,Female,PhD,HR Manager,7,128500
+22,Male,High School,Mechanical Engineer,0,63000
+25,Male,Bachelor's,HR Manager,1,92000
+31,Male,Bachelor's,Recruiter,6,74000
+27,Male,Master's,Senior Data Scientist,4,183000
+25,Male,Master's,Accountant,4,76000
+40,Male,Master's,Product Manager,14,184000
+34,Male,PhD,Mechanical Engineer,5,135500
+28,Male,PhD,Sales Representative,0,70500
+32,Male,High School,UX Designer,10,95500
+23,Female,Master's,Supply Chain Manager,0,107500
+34,Male,PhD,Recruiter,7,92000
+64,Male,Bachelor's,Recruiter,39,149500
+27,Female,High School,Mobile Developer,0,69500
+22,Male,Master's,Scrum Master,0,101500
+45,Female,High School,COO,21,304500
+24,Female,PhD,VP of Engineering,0,274500
+27,Female,High School,UX Designer,3,76000
+25,Female,Bachelor's,Data Engineer,0,106500
+22,Male,Master's,Junior Developer,0,63000
+25,Male,Bachelor's,Marketing Manager,4,93500
+31,Male,Bachelor's,Biomedical Engineer,7,103000
+23,Male,Bachelor's,UI Designer,1,85500
+24,Female,Bachelor's,Project Manager,0,80500
+54,Female,Master's,Research Scientist,28,248000
+28,Male,Master's,CTO,2,301000
+26,Female,PhD,Brand Manager,1,130000
+39,Male,Bachelor's,Electrical Engineer,18,152500
+28,Female,Bachelor's,Biomedical Engineer,2,92000
+28,Male,Master's,Full Stack Developer,3,118500
+35,Male,Bachelor's,UI Designer,13,118000
+25,Female,Master's,Business Development Manager,4,138000
+27,Male,PhD,Machine Learning Engineer,1,161000
+24,Male,Bachelor's,Marketing Manager,6,88000
+28,Male,Bachelor's,Sales Representative,6,61500
+26,Female,Bachelor's,Account Executive,3,86500
+24,Female,PhD,Sales Manager,2,131000
+29,Female,Bachelor's,Account Executive,1,67500
+27,Female,Master's,Senior Product Manager,5,199500
+29,Female,Master's,Senior Software Engineer,6,186500
+27,Male,High School,Senior Data Analyst,2,80500
+24,Male,Bachelor's,UX Designer,3,87500
+22,Male,Bachelor's,UI Designer,0,83500
+30,Female,Bachelor's,Account Executive,2,84500
+35,Female,Bachelor's,VP of Engineering,7,216500
+35,Male,Bachelor's,Content Strategist,12,80000
+27,Male,Bachelor's,Civil Engineer,1,81000
+36,Male,Bachelor's,CEO,13,461000
+28,Male,PhD,Cybersecurity Analyst,6,145500
+57,Male,High School,Full Stack Developer,33,151000
+40,Female,Bachelor's,Investment Banker,14,161500
+23,Male,High School,Software Engineer,1,72000
+29,Male,Bachelor's,Research Scientist,7,136000
+24,Male,PhD,Business Analyst,2,104500
+27,Female,Master's,Mobile Developer,6,114000
+29,Male,Bachelor's,Director,6,153500
+39,Female,Master's,Investment Banker,16,221000
+32,Male,Master's,Biomedical Engineer,9,139500
+34,Male,High School,Recruiter,6,57500
+23,Male,Bachelor's,Content Strategist,0,65000
+29,Male,Bachelor's,CEO,6,328000
+28,Male,PhD,Marketing Manager,7,135000
+31,Male,Master's,Manager,9,129500
+27,Male,Master's,Brand Manager,1,101500
+31,Male,Bachelor's,Brand Manager,7,100000
+29,Female,Master's,Financial Analyst,5,102500
+30,Female,Bachelor's,CTO,8,330500
+22,Male,PhD,Frontend Developer,0,107000
+31,Male,High School,Business Analyst,7,67500
+25,Male,Bachelor's,Director of Engineering,5,177500
+30,Male,Bachelor's,Data Analyst,8,78500
+26,Female,Bachelor's,Account Executive,4,83500
+36,Male,Master's,Business Analyst,12,112500
+38,Female,Master's,CTO,14,437500
+28,Male,Master's,Accountant,5,79500
+25,Female,PhD,Senior Manager,0,155000
+30,Male,Bachelor's,Sales Representative,8,63500
+29,Female,PhD,Manager,7,146000
+22,Female,Master's,Data Engineer,2,120500
+25,Male,Bachelor's,Financial Analyst,0,69000
+23,Female,Bachelor's,Business Analyst,0,71000
+26,Male,Bachelor's,Investment Banker,6,170500
+24,Male,Bachelor's,Brand Manager,1,87000
+49,Female,Master's,Product Manager,21,203500
+44,Female,Bachelor's,Data Analyst,16,91000
+24,Female,PhD,Research Scientist,3,161500
+30,Female,Master's,Senior Manager,10,175000
+28,Female,Master's,Research Scientist,3,128000
+30,Male,Bachelor's,Intern,5,40000
+27,Male,Master's,Frontend Developer,2,96000
+26,Female,PhD,Senior Software Engineer,3,181500
+27,Male,PhD,Senior Data Scientist,5,208500
+27,Male,Master's,Graphic Designer,3,70500
+31,Male,Bachelor's,Civil Engineer,7,96500
+29,Female,Master's,Account Executive,4,106000
+35,Female,Bachelor's,Scrum Master,8,125000
+30,Female,Bachelor's,Marketing Manager,7,97500
+23,Male,Master's,Accountant,2,76500
+34,Female,Bachelor's,Senior Manager,14,152000
+36,Male,Bachelor's,Marketing Manager,9,110500
+26,Male,Master's,Product Manager,0,125500
+28,Female,PhD,Senior Product Manager,4,227000
+37,Female,PhD,Senior Data Analyst,15,203000
+50,Female,Master's,Marketing Manager,26,182500
+40,Female,High School,COO,15,230500
+27,Male,Bachelor's,Graphic Designer,6,67000
+30,Male,Master's,Financial Analyst,6,96500
+30,Female,Master's,Junior Developer,6,70000
+29,Female,High School,VP of Engineering,3,162000
+38,Male,Bachelor's,Operations Manager,17,161500
+53,Female,Bachelor's,Marketing Manager,27,161000
+35,Female,Bachelor's,VP,9,210500
+24,Female,Bachelor's,Senior Data Analyst,0,85500
+24,Female,Master's,DevOps Engineer,4,121000
+49,Female,Bachelor's,Business Development Manager,26,191500
+29,Male,Master's,VP of Engineering,4,269000
+26,Female,High School,VP of Engineering,1,171000
+24,Male,Master's,HR Specialist,0,67500
+23,Female,Master's,DevOps Engineer,1,113500
+24,Male,Bachelor's,Sales Representative,4,63500
+32,Male,Master's,Investment Banker,9,218000
+23,Male,Master's,Logistics Coordinator,1,63000
+39,Male,Bachelor's,Scrum Master,16,151500
+26,Male,Master's,Data Analyst,3,93500
+29,Female,Bachelor's,Data Engineer,4,124000
+32,Male,Bachelor's,Biomedical Engineer,4,97000
+34,Female,High School,Mobile Developer,13,100500
+28,Male,Bachelor's,Data Analyst,5,77500
+28,Female,Bachelor's,CEO,5,364500
+23,Male,Master's,Content Strategist,0,67000
+27,Male,Master's,Sales Manager,6,125000
+24,Female,Bachelor's,Digital Marketing Specialist,3,64500
+26,Male,Master's,CTO,2,303000
+43,Male,Bachelor's,Full Stack Developer,21,162000
+28,Male,Bachelor's,Chemical Engineer,3,90000
+36,Male,Bachelor's,Machine Learning Engineer,13,179000
+22,Female,Master's,Brand Manager,3,113500
+32,Male,Master's,Biomedical Engineer,10,135500
+29,Male,Bachelor's,UI Designer,4,90500
+25,Male,Master's,Data Analyst,2,72000
+27,Female,Bachelor's,Content Strategist,2,72000
+22,Female,Master's,Cybersecurity Analyst,0,114500
+50,Female,Bachelor's,Biomedical Engineer,29,167500
+31,Male,PhD,Project Manager,7,145000
+24,Female,Master's,VP,1,227000
+37,Male,Master's,Brand Manager,9,136500
+26,Female,Bachelor's,CFO,2,248000
+25,Male,High School,Director,0,130000
+24,Male,Master's,Senior Financial Analyst,1,96000
+26,Male,Bachelor's,Intern,2,41000
+24,Male,Master's,CFO,2,253000
+42,Male,High School,Business Development Manager,14,121500
+31,Female,Master's,Product Manager,8,169000
+40,Female,PhD,Intern,17,87500
+23,Female,High School,Senior Data Analyst,1,61000
+27,Female,Bachelor's,HR Specialist,1,56500
+28,Female,Bachelor's,Operations Manager,4,116000
+47,Male,Master's,Financial Analyst,24,147500
+23,Male,Bachelor's,Research Scientist,1,102500
+30,Female,Master's,CFO,7,342500
+27,Male,Bachelor's,Accountant,2,66500
+47,Female,Bachelor's,Investment Banker,24,245500
+54,Male,Bachelor's,Director of Engineering,34,371500
+31,Male,Bachelor's,Senior Data Scientist,7,167000
+25,Female,Master's,Manager,2,95000
+42,Male,Bachelor's,Machine Learning Engineer,21,196500
+22,Female,Master's,Senior Software Engineer,0,146500
+26,Male,High School,Machine Learning Engineer,2,100500
+26,Male,Master's,Sales Representative,1,63500
+26,Male,Bachelor's,Cybersecurity Analyst,1,108500
+41,Male,High School,Mechanical Engineer,18,102500
+29,Male,High School,Software Engineer,4,80500
+29,Female,Bachelor's,Data Engineer,6,119500
+29,Female,Bachelor's,Cloud Architect,2,126000
+51,Female,Bachelor's,Scrum Master,27,195000
+37,Male,Bachelor's,Electrical Engineer,13,128500
+32,Female,Master's,Project Manager,11,131000
+25,Male,Bachelor's,Data Engineer,1,116000
+29,Female,Master's,Mechanical Engineer,5,119000
+29,Male,Bachelor's,Frontend Developer,3,74500
+26,Male,Bachelor's,DevOps Engineer,2,112500
+33,Female,Master's,Senior Manager,10,182000
+27,Female,Bachelor's,HR Manager,4,94500
+48,Male,Bachelor's,Cloud Architect,25,253500
+27,Female,Bachelor's,Scrum Master,5,106000
+29,Female,Bachelor's,Director,6,168000
+53,Female,PhD,Investment Banker,30,383000
+32,Female,Bachelor's,VP of Engineering,7,221500
+31,Female,High School,Business Development Manager,10,86000
+36,Female,Master's,UI Designer,10,131000
+32,Male,Master's,Full Stack Developer,7,121000
+37,Female,Master's,Biomedical Engineer,12,152500
+28,Male,High School,Logistics Coordinator,2,48000
+39,Male,PhD,Biomedical Engineer,12,182000
+27,Female,Master's,Accountant,3,76000
+22,Female,PhD,Data Engineer,2,140500
+25,Female,Bachelor's,Research Scientist,2,106000
+26,Female,Master's,Cybersecurity Analyst,0,117000
+30,Male,PhD,Machine Learning Engineer,8,207500
+25,Female,Master's,Senior Product Manager,3,172000
+24,Female,Bachelor's,Senior Accountant,0,91500
+34,Female,Bachelor's,Manager,11,113000
+26,Male,Bachelor's,Electrical Engineer,2,83500
+22,Female,PhD,Backend Developer,0,124000
+27,Female,Master's,Graphic Designer,2,78500
+33,Male,Bachelor's,Data Engineer,9,132000
+24,Female,High School,Machine Learning Engineer,1,106500
+27,Female,Bachelor's,Chemical Engineer,4,89500
+27,Female,Bachelor's,Scrum Master,4,111000
+23,Male,High School,Machine Learning Engineer,0,83500
+32,Female,Bachelor's,Digital Marketing Specialist,7,80500
+25,Male,Bachelor's,Recruiter,2,65000
+25,Female,Bachelor's,Frontend Developer,3,80500
+34,Female,Master's,Backend Developer,5,118500
+28,Male,High School,Sales Manager,5,88000
+33,Female,High School,Senior Accountant,9,87500
+40,Female,High School,Manager,17,102000
+27,Female,Bachelor's,DevOps Engineer,0,108000
+35,Male,Master's,Senior Data Analyst,13,173000
+26,Female,Master's,Data Scientist,3,124500
+29,Male,Bachelor's,Sales Representative,6,60000
+23,Female,Bachelor's,Cybersecurity Analyst,0,90500
+27,Female,Bachelor's,Senior Data Scientist,3,146000
+23,Male,Bachelor's,Biomedical Engineer,4,102500
+25,Male,Bachelor's,Senior Software Engineer,0,101500
+23,Female,Master's,Mobile Developer,0,92500
+37,Female,High School,Director,11,174000
+36,Female,Master's,Biomedical Engineer,12,170000
+29,Male,High School,Research Scientist,6,108500
+32,Female,Bachelor's,Research Scientist,9,136000
+22,Female,Master's,VP of Engineering,0,259500
+25,Male,PhD,Biomedical Engineer,0,114000
+36,Male,Bachelor's,Mechanical Engineer,12,118500
+26,Female,Bachelor's,Business Development Manager,1,103500
+39,Female,Master's,Senior Data Scientist,13,237000
+28,Male,Bachelor's,Intern,4,42500
+27,Male,Bachelor's,Director of Engineering,1,140500
+25,Male,Master's,Senior Data Scientist,3,169500
+29,Female,Master's,Biomedical Engineer,8,126000
+24,Male,Master's,DevOps Engineer,4,147500
+26,Female,Master's,Sales Representative,8,80500
+27,Male,Master's,Brand Manager,5,120000
+25,Male,Master's,CFO,3,301500
+32,Male,Bachelor's,VP of Engineering,8,276500
+25,Male,Bachelor's,Chemical Engineer,1,85000
+32,Female,Bachelor's,VP,7,245000
+31,Female,Bachelor's,Sales Manager,8,117000
+40,Female,Bachelor's,Senior Data Scientist,14,201500
+24,Female,Bachelor's,Senior Data Analyst,2,105500
+30,Male,Bachelor's,DevOps Engineer,8,134000
+49,Female,Bachelor's,Account Executive,26,118000
+29,Female,Bachelor's,Data Scientist,5,122500
+25,Female,Bachelor's,Cloud Architect,0,118000
+23,Male,Master's,Senior Product Manager,1,169500
+34,Male,Master's,Logistics Coordinator,10,68500
+28,Female,Bachelor's,Logistics Coordinator,4,61500
+28,Male,Bachelor's,Operations Manager,3,104500
+24,Male,Master's,Investment Banker,1,135500
+25,Male,Master's,VP of Engineering,2,234500
+28,Female,Bachelor's,Machine Learning Engineer,6,138000
+28,Female,Master's,COO,5,319500
+29,Female,PhD,Junior Developer,3,79500
+23,Male,Master's,HR Specialist,1,65000
+32,Female,Bachelor's,Software Engineer,8,114000
+30,Male,Bachelor's,Logistics Coordinator,2,53500
+36,Male,PhD,Scrum Master,13,189000
+26,Male,PhD,Director of Engineering,3,247000
+46,Female,Master's,Junior Developer,21,100000
+37,Female,Bachelor's,Investment Banker,10,183500
+27,Female,Bachelor's,VP of Engineering,6,235000
+29,Female,Bachelor's,Machine Learning Engineer,9,139500
+28,Male,Bachelor's,UI Designer,5,111500
+28,Female,Bachelor's,Graphic Designer,1,61000
+29,Female,PhD,Operations Manager,7,165000
+35,Male,Master's,Intern,13,61500
+35,Female,Bachelor's,CFO,13,319500
+28,Male,Master's,Marketing Manager,5,110500
+33,Male,Bachelor's,Sales Representative,7,66500
+45,Male,High School,CTO,21,342500
+47,Female,Master's,Digital Marketing Specialist,22,136500
+31,Male,Bachelor's,Sales Representative,6,60500
+32,Female,Bachelor's,CFO,8,322500
+23,Female,PhD,Machine Learning Engineer,0,154500
+40,Female,Bachelor's,Chemical Engineer,16,125000
+39,Male,Bachelor's,Business Development Manager,16,155500
+30,Female,Bachelor's,Data Analyst,9,85000
+32,Male,Bachelor's,Content Strategist,9,81500
+34,Female,Bachelor's,Frontend Developer,8,95000
+27,Male,Master's,HR Specialist,4,78500
+26,Male,Bachelor's,Electrical Engineer,2,91500
+31,Male,Bachelor's,Sales Representative,10,64000
+24,Male,Master's,Scrum Master,0,83500
+34,Female,Master's,Data Scientist,11,162500
+26,Male,Bachelor's,Machine Learning Engineer,2,106500
+35,Male,High School,Product Manager,11,123000
+41,Male,PhD,Senior Product Manager,15,299500
+35,Female,Master's,Manager,9,127500
+32,Male,Bachelor's,Graphic Designer,5,75000
+40,Female,PhD,Financial Analyst,16,155000
+28,Female,High School,Chemical Engineer,2,72500
+26,Female,Master's,Data Engineer,1,120000
+28,Male,Bachelor's,Senior Product Manager,2,145000
+22,Female,Bachelor's,Senior Accountant,0,86500
+25,Male,Master's,Junior Developer,1,67500
+41,Male,Bachelor's,Project Manager,19,148000
+31,Female,Master's,Mobile Developer,8,142000
+25,Female,Bachelor's,Brand Manager,1,88500
+33,Female,Bachelor's,Senior Software Engineer,7,151000
+65,Male,High School,VP,40,355000
+25,Female,Master's,CFO,0,265000
+33,Female,High School,Software Engineer,10,94000
+28,Female,Master's,Data Engineer,5,158000
+30,Female,Bachelor's,Accountant,4,69000
+35,Female,Bachelor's,Account Executive,10,87500
+22,Male,Master's,Electrical Engineer,2,120500
+40,Male,Master's,Marketing Manager,17,132500
+65,Male,PhD,Senior Data Analyst,40,273000
+22,Male,High School,Senior Financial Analyst,0,60000
+22,Male,Master's,Chemical Engineer,2,111500
+22,Male,Bachelor's,Cloud Architect,1,141500
+30,Female,Bachelor's,Supply Chain Manager,7,112000
+30,Female,High School,Brand Manager,6,72500
+25,Male,PhD,Mechanical Engineer,5,144000
+25,Male,Master's,Sales Manager,2,123000
+22,Male,Master's,HR Manager,1,102000
+31,Female,Bachelor's,Senior Product Manager,9,198000
+25,Male,Bachelor's,HR Manager,3,86000
+24,Female,Master's,UI Designer,2,85500
+24,Female,Bachelor's,UX Designer,1,88500
+33,Male,Master's,Senior Accountant,7,108500
+23,Female,Master's,Financial Analyst,4,98000
+38,Male,Master's,Senior Financial Analyst,15,178500
+28,Female,Bachelor's,Mechanical Engineer,2,90500
+24,Female,Master's,HR Specialist,0,54500
+23,Male,Bachelor's,Accountant,1,71500
+45,Female,Bachelor's,Logistics Coordinator,21,81000
+40,Female,Bachelor's,Project Manager,18,117000
+26,Female,Master's,Senior Data Analyst,2,104000
+29,Female,High School,Full Stack Developer,8,95000
+25,Male,Master's,Cloud Architect,5,174500
+30,Male,PhD,Biomedical Engineer,7,139500
+54,Female,High School,Backend Developer,31,147500
+30,Male,Bachelor's,HR Specialist,4,65500
+22,Female,Bachelor's,Logistics Coordinator,1,49000
+25,Female,Bachelor's,Biomedical Engineer,0,88000
+35,Male,PhD,Civil Engineer,9,151000
+29,Male,Bachelor's,Brand Manager,4,108500
+27,Female,High School,Cybersecurity Analyst,8,101500
+41,Female,Master's,Biomedical Engineer,15,158000
+23,Male,Bachelor's,VP of Engineering,0,192500
+33,Female,Master's,Senior Financial Analyst,9,129500
+42,Male,Bachelor's,UI Designer,20,137000
+31,Female,Bachelor's,COO,10,297500
+25,Female,Bachelor's,Chemical Engineer,2,76000
+42,Female,Bachelor's,Cloud Architect,16,212000
+25,Female,Bachelor's,COO,3,235500
+27,Male,Bachelor's,Data Engineer,3,115500
+22,Male,Master's,HR Manager,2,94500
+29,Female,PhD,CTO,3,365000
+57,Female,Bachelor's,Chemical Engineer,36,206000
+35,Male,Bachelor's,Mechanical Engineer,11,119500
+23,Female,Master's,UX Designer,1,102000
+27,Female,Bachelor's,Investment Banker,3,124000
+28,Female,PhD,Business Development Manager,4,148500
+40,Female,PhD,Civil Engineer,17,171000
+25,Female,Master's,DevOps Engineer,3,132500
+32,Male,Bachelor's,Graphic Designer,6,58000
+27,Male,Master's,Data Analyst,7,83500
+25,Male,Bachelor's,Senior Software Engineer,6,142500
+36,Male,High School,Full Stack Developer,17,106500
+26,Male,High School,Civil Engineer,2,63000
+25,Female,Master's,Civil Engineer,1,101500
+25,Male,Bachelor's,CTO,1,223500
+27,Male,PhD,VP,4,299000
+28,Female,Bachelor's,Electrical Engineer,7,107500
+33,Male,High School,VP of Engineering,9,201000
+27,Female,Bachelor's,Biomedical Engineer,5,109500
+26,Female,Bachelor's,Machine Learning Engineer,5,137000
+37,Female,Bachelor's,Recruiter,12,79500
+25,Female,Master's,Scrum Master,4,135000
+34,Female,High School,Data Engineer,13,130000
+24,Female,Master's,Graphic Designer,2,68000
+23,Female,Master's,HR Specialist,1,63500
+28,Male,Bachelor's,Software Engineer,5,102000
+54,Female,Master's,Director,29,340000
+26,Female,Bachelor's,Research Scientist,3,127500
+23,Female,PhD,UX Designer,3,133500
+46,Male,Master's,Biomedical Engineer,19,176000
+27,Male,Bachelor's,Recruiter,4,66000
+29,Male,Bachelor's,Mechanical Engineer,5,100500
+33,Female,Bachelor's,HR Specialist,10,76500
+27,Female,Bachelor's,Senior Accountant,2,76500
+32,Male,Bachelor's,VP of Engineering,7,242500
+29,Female,High School,Senior Data Analyst,4,74500
+28,Female,Master's,Brand Manager,4,122000
+25,Female,Bachelor's,Manager,0,74500
+24,Female,PhD,Machine Learning Engineer,0,150000
+62,Female,Bachelor's,UI Designer,39,202000
+37,Male,Master's,Graphic Designer,10,89000
+33,Male,PhD,Electrical Engineer,14,174500
+30,Female,Bachelor's,Director,3,174000
+30,Female,Master's,Marketing Manager,7,117000
+26,Female,Master's,Full Stack Developer,1,122500
+30,Female,Bachelor's,Senior Financial Analyst,4,105000
+37,Female,Bachelor's,Accountant,12,85500
+25,Female,Master's,Chemical Engineer,3,106500
+26,Male,Bachelor's,Chemical Engineer,1,92000
+25,Female,Bachelor's,Full Stack Developer,1,97000
+26,Male,Bachelor's,DevOps Engineer,3,115000
+26,Female,PhD,Data Scientist,6,176500
+30,Male,Bachelor's,Investment Banker,9,170000
+26,Female,PhD,Mobile Developer,3,132000
+26,Male,High School,Full Stack Developer,5,88500
+30,Female,Master's,Product Manager,8,178500
+38,Male,PhD,Business Development Manager,15,202500
+25,Female,Master's,Marketing Manager,0,101000
+33,Male,High School,Backend Developer,12,95000
+29,Female,Bachelor's,HR Manager,5,96500
+30,Female,Master's,Marketing Manager,4,100500
+51,Male,Master's,Investment Banker,26,307500
+28,Female,High School,Cloud Architect,3,132000
+28,Male,Bachelor's,Senior Software Engineer,2,130500
+31,Male,Master's,Cybersecurity Analyst,12,152000
+27,Male,Master's,Senior Financial Analyst,0,119000
+29,Male,PhD,COO,6,321500
+25,Female,Bachelor's,Civil Engineer,0,78500
+36,Male,PhD,Civil Engineer,12,141500
+30,Male,Bachelor's,Manager,8,106500
+42,Female,Master's,Chemical Engineer,18,161500
+35,Female,High School,Scrum Master,10,108000
+32,Male,High School,Electrical Engineer,6,73000
+29,Male,PhD,CFO,6,376500
+23,Male,Master's,Junior Developer,2,67500
+50,Male,Bachelor's,Account Executive,25,133000
+26,Female,Bachelor's,Marketing Manager,2,88000
+25,Male,PhD,Supply Chain Manager,0,106500
+27,Male,Bachelor's,Research Scientist,3,114500
+34,Female,PhD,Manager,8,108500
+28,Female,Bachelor's,Recruiter,1,61000
+28,Male,Master's,Director,8,222000
+38,Male,Master's,Business Analyst,16,125500
+30,Female,Master's,Logistics Coordinator,6,73000
+31,Male,Bachelor's,Product Manager,8,155000
+24,Female,Master's,Data Analyst,0,72500
+24,Female,Bachelor's,Logistics Coordinator,4,57000
+28,Male,Bachelor's,Director of Engineering,5,220500
+29,Male,Bachelor's,Investment Banker,4,127000
+24,Male,Master's,HR Specialist,4,76500
+28,Male,Master's,Cybersecurity Analyst,2,126500
+22,Female,PhD,Junior Developer,0,80000
+27,Female,Bachelor's,Project Manager,4,89500
+30,Female,Master's,Manager,7,114000
+36,Female,PhD,Full Stack Developer,14,178500
+36,Female,PhD,Account Executive,13,149000
+34,Male,Bachelor's,Logistics Coordinator,4,56000
+26,Female,Bachelor's,Product Manager,3,112500
+25,Male,Master's,Brand Manager,3,111000
+27,Female,Bachelor's,Director of Engineering,4,196000
+24,Male,Bachelor's,CTO,1,274500
+26,Female,Master's,UX Designer,7,115500
+27,Female,Master's,Senior Data Analyst,4,119500
+23,Male,Bachelor's,Project Manager,0,87000
+32,Female,Master's,Research Scientist,10,159000
+24,Male,Bachelor's,CTO,2,248000
+25,Female,Master's,UI Designer,1,93500
+25,Male,Bachelor's,Investment Banker,0,131500
+24,Male,Master's,Investment Banker,2,165000
+50,Female,Master's,Investment Banker,23,284500
+22,Female,Bachelor's,Junior Developer,2,56000
+37,Male,Bachelor's,Digital Marketing Specialist,11,82500
+23,Female,Master's,Project Manager,2,109000
+27,Male,Bachelor's,Biomedical Engineer,2,93000
+30,Male,Bachelor's,Senior Software Engineer,4,148000
+35,Male,PhD,Business Development Manager,12,174500
+25,Female,Bachelor's,UI Designer,4,76500
+45,Female,High School,Machine Learning Engineer,17,143000
+23,Male,Bachelor's,Graphic Designer,3,55500
+23,Female,Master's,Senior Product Manager,0,160000
+24,Female,Master's,Investment Banker,1,159000
+27,Male,Master's,Full Stack Developer,4,120000
+37,Male,PhD,Senior Data Analyst,12,161000
+40,Male,Bachelor's,Project Manager,16,130500
+23,Female,Bachelor's,Research Scientist,1,113500
+44,Male,Bachelor's,COO,21,342000
+39,Male,Bachelor's,Account Executive,14,116500
+23,Female,Master's,Accountant,1,77500
+37,Female,Bachelor's,Data Analyst,13,87500
+38,Male,Master's,Sales Manager,16,133500
+31,Female,Bachelor's,Marketing Manager,4,96000
+26,Female,Master's,Junior Developer,4,68500
+38,Male,PhD,Senior Data Scientist,15,299500
+27,Female,Master's,Supply Chain Manager,3,122000
+28,Female,PhD,Cybersecurity Analyst,4,132500
+31,Male,Master's,Marketing Manager,10,135000
+25,Male,PhD,UI Designer,1,116500
+24,Male,Bachelor's,Project Manager,0,95000
+26,Female,Bachelor's,Accountant,4,64500
+48,Male,Bachelor's,VP,25,320500
+26,Male,Master's,Senior Financial Analyst,1,121000
+44,Male,Bachelor's,Mechanical Engineer,19,145000
+28,Male,Bachelor's,Marketing Manager,5,85000
+33,Female,Bachelor's,Recruiter,10,83500
+35,Male,Bachelor's,Research Scientist,12,172000
+22,Female,Bachelor's,HR Manager,2,84000
+34,Male,Master's,Logistics Coordinator,9,75000
+24,Male,Master's,Digital Marketing Specialist,4,76500
+35,Female,High School,Brand Manager,5,83500
+22,Female,PhD,DevOps Engineer,1,121000
+31,Female,Master's,Business Development Manager,5,134000
+28,Male,Bachelor's,VP,8,221500
+28,Male,Bachelor's,Content Strategist,3,63500
+24,Male,Bachelor's,Brand Manager,0,88500
+22,Female,Bachelor's,Marketing Manager,0,78000
+37,Male,Bachelor's,Digital Marketing Specialist,9,71500
+35,Female,High School,Director of Engineering,9,161000
+26,Male,Bachelor's,Accountant,5,75000
+30,Male,Bachelor's,Director,2,151500
+30,Male,Master's,Software Engineer,5,126500
+34,Male,Master's,UX Designer,14,129000
+25,Male,Bachelor's,Project Manager,0,89500
+26,Female,High School,Cybersecurity Analyst,6,87000
+28,Female,Bachelor's,CTO,4,257500
+41,Male,Master's,CEO,16,511500
+22,Male,Bachelor's,Investment Banker,1,122000
+26,Male,Master's,Investment Banker,0,144000
+26,Female,Bachelor's,Business Development Manager,2,106500
+25,Male,Bachelor's,UI Designer,5,86000
+26,Female,Bachelor's,Account Executive,4,76000
+30,Female,Bachelor's,VP,7,235500
+36,Male,Bachelor's,Sales Representative,15,76000
+43,Female,Bachelor's,CFO,14,324000
+29,Male,Master's,Operations Manager,4,113000
+24,Female,Bachelor's,Senior Manager,1,117000
+29,Male,PhD,VP of Engineering,3,272500
+44,Male,Bachelor's,Civil Engineer,18,130500
+39,Female,Bachelor's,Manager,16,131500
+28,Male,Bachelor's,Mobile Developer,5,97500
+29,Female,Master's,Senior Product Manager,0,166500
+27,Female,Bachelor's,Civil Engineer,2,86000
+30,Male,PhD,Manager,8,143000
+22,Male,Bachelor's,VP of Engineering,2,218000
+27,Male,Bachelor's,Senior Financial Analyst,4,109500
+44,Male,Bachelor's,Logistics Coordinator,15,79000
+27,Female,Bachelor's,Intern,2,42000
+27,Female,Master's,Senior Manager,5,170500
+22,Female,Bachelor's,Senior Data Analyst,0,75000
+25,Male,Master's,DevOps Engineer,0,111500
+29,Male,Master's,Content Strategist,5,89500
+22,Male,Bachelor's,UI Designer,1,77500
+58,Female,Bachelor's,Mechanical Engineer,33,169500
+22,Male,High School,CFO,0,189000
+23,Female,High School,Senior Data Scientist,0,107500
+27,Male,Master's,Machine Learning Engineer,5,163000
+44,Male,Bachelor's,Civil Engineer,19,119500
+37,Female,Bachelor's,Software Engineer,15,144000
+22,Male,Bachelor's,Content Strategist,1,70500
+27,Female,Master's,Machine Learning Engineer,6,157500
+31,Male,Bachelor's,Accountant,4,61000
+23,Female,Master's,Business Development Manager,0,115000
+34,Male,Bachelor's,Financial Analyst,8,86000
+23,Male,Master's,Product Manager,0,113000
+41,Male,Bachelor's,Financial Analyst,19,112500
+47,Male,Bachelor's,Senior Product Manager,20,246000
+28,Female,PhD,Sales Representative,2,75000
+27,Male,Bachelor's,Business Analyst,4,69000
+28,Male,Bachelor's,DevOps Engineer,7,130000
+24,Male,Master's,Junior Developer,4,64500
+22,Male,Master's,UX Designer,1,106000
+32,Female,Master's,Intern,7,46000
+31,Female,Bachelor's,Frontend Developer,7,86500
+25,Male,Bachelor's,CEO,3,291000
+26,Male,Master's,Director,1,195500
+27,Female,Bachelor's,Graphic Designer,3,70000
+26,Male,Bachelor's,UI Designer,0,79500
+29,Male,Bachelor's,DevOps Engineer,3,107000
+24,Male,Bachelor's,Director of Engineering,0,151000
+34,Female,PhD,VP of Engineering,8,345000
+26,Female,Bachelor's,Frontend Developer,2,83500
+24,Male,Bachelor's,Recruiter,3,63500
+33,Male,Bachelor's,VP,11,239000
+26,Female,Master's,Account Executive,4,99500
+45,Female,Bachelor's,Mechanical Engineer,22,137000
+27,Female,Bachelor's,HR Specialist,1,59000
+31,Female,Bachelor's,VP,9,227500
+24,Female,Master's,HR Manager,4,107000
+46,Female,Bachelor's,Cloud Architect,21,251500
+26,Male,Master's,Graphic Designer,4,71500
+24,Female,PhD,Investment Banker,1,165500
+27,Female,Bachelor's,Intern,2,47000
+31,Male,High School,Cloud Architect,7,134000
+26,Female,High School,Sales Manager,4,81000
+26,Female,Master's,Investment Banker,1,140000
+40,Male,Bachelor's,Account Executive,16,107500
+28,Male,Bachelor's,Electrical Engineer,2,86500
+23,Male,PhD,VP of Engineering,1,293500
+40,Male,Master's,Content Strategist,13,100500
+22,Female,Master's,Electrical Engineer,2,133500
+23,Female,Bachelor's,Frontend Developer,1,85500
+27,Female,Bachelor's,Senior Product Manager,1,139000
+27,Female,Master's,Recruiter,5,71500
+22,Female,PhD,Sales Representative,0,69500
+32,Male,High School,Data Analyst,8,61000
+34,Female,Master's,Senior Data Analyst,9,140000
+25,Male,PhD,Junior Developer,5,82500
+37,Male,Bachelor's,Frontend Developer,14,116500
+28,Female,Bachelor's,Senior Financial Analyst,4,117000
+22,Female,PhD,Brand Manager,0,116500
+34,Male,High School,Data Scientist,12,113000
+24,Male,Bachelor's,Senior Data Analyst,1,91500
+27,Female,High School,Backend Developer,2,84000
+37,Male,PhD,Biomedical Engineer,15,176500
+29,Female,Bachelor's,UI Designer,2,83000
+35,Female,Master's,Account Executive,9,109500
+24,Male,Bachelor's,Chemical Engineer,4,93500
+27,Female,Bachelor's,HR Manager,2,78000
+24,Male,Master's,Cybersecurity Analyst,1,112000
+29,Male,Bachelor's,Senior Software Engineer,3,130000
+32,Female,Bachelor's,HR Manager,9,94000
+31,Male,Bachelor's,VP,4,202500
+33,Female,Master's,Scrum Master,8,144500
+29,Female,Bachelor's,Mobile Developer,5,103500
+58,Female,High School,Machine Learning Engineer,34,200500
+25,Male,Bachelor's,HR Specialist,7,76000
+27,Female,PhD,Business Development Manager,3,137500
+46,Female,PhD,Manager,20,167000
+32,Male,PhD,CTO,7,411000
+37,Female,Bachelor's,Mobile Developer,14,132000
